@@ -1,0 +1,30 @@
+@screen-xxs:				360px;
+@screen-xs:					480px;
+@screen-sm:					768px;
+@screen-md:					992px;
+@screen-lg:					1200px;
+@screen-xxs1:				(@screen-xxs - 1px);
+@screen-xs1:				(@screen-xs - 1px);
+@screen-sm1:				(@screen-sm - 1px);
+@screen-md1:				(@screen-md - 1px);
+@screen-lg1:				(@screen-lg - 1px);
+
+@import "mixins/mixin.less";
+@import "media/header.less";
+@import "media/footer.less";
+@import "media/titlebar.less";
+@import "media/blog.less";
+@import "media/portfolio.less";
+@import "media/404.less";
+@import "media/woocommerce.less";
+
+@media screen and ( max-width: @screen-sm1 ) {
+	.margin-bottom-30-sm:not(:last-child) {
+		margin-bottom: 30px;
+	}
+}
+@media screen and ( max-width: @screen-md1 ) {
+	.margin-bottom-30-md:not(:last-child) {
+		margin-bottom: 30px;
+	}
+}

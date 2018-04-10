@@ -1,0 +1,90 @@
+@keyframes smBeat {
+	0% {
+		.lh-transform(none);
+	}
+	50% {
+		.lh-transform(scale(1.1,1.1));
+	}
+	100% {
+		.lh-transform(none);
+	}
+}
+.tp-bullets {
+	&.custom .tp-bullet {
+		cursor: pointer;
+		border: 2px solid #fff !important;
+		width: 14px !important;
+		height: 14px !important;
+		box-sizing: border-box;
+		background: none transparent !important;
+		.lh-border-radius(50%);
+		.lh-transition(background 0.3s, border 0.3s);
+		&:not(:last-child) {
+			margin-bottom: 4px;
+			margin-right: 4px;
+			margin-left: 0;
+		}
+		&:hover {
+			background-color: #fff !important;
+		}
+		&.selected {
+			background-color: @primary-color !important;
+			border: none !important;
+		}
+	}
+}
+
+.tp-bannertimer {
+	transform: translate(0, 0) !important;
+}
+.hades .tp-bullet {
+	transform: translate(0, 0) !important;
+}
+.sm-vstd-wrap {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+	text-align: center;
+	overflow: hidden;
+	&:before, &:after {
+		content: '';
+		position: absolute;
+		width: 50%;
+		bottom: 0;
+		height: 50px;
+	}
+	&:before {
+		left: -50px;
+	}
+	&:after {
+		right: -50px;
+	}
+	svg {
+		position: absolute;
+		left: 50%;
+		margin-left: -55px;
+		top: 0;
+	}
+	.slide-link {
+		position: absolute;
+		top: 2px;
+		left: 50%;
+		margin-left: -9px;
+		&:hover {
+			.lh-animation( smBeat 0.5s infinite );
+		}
+	}
+}
+
+/* Vendor Slider Overridables */
+.sm-vstd-wrap {
+	&:before, &:after {
+		background-color: @bg-color;
+	}
+	path {
+		fill: @bg-color;
+	}
+}
+

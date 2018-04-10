@@ -1,0 +1,21 @@
+.light {
+	font-weight: 300 !important;
+}
+.normal {
+	font-weight: 400 !important;
+}
+.bold {
+	font-weight: 600 !important;
+}
+.uppercase {
+	text-transform: uppercase !important;
+}
+.primary-color {
+	color: #4396e6 !important;
+}
+.secondary-color {
+	color: #f56048;
+}
+.text-shadow {
+	text-shadow: 1px 1px rgba( 0, 0, 0, 0.2 );
+}

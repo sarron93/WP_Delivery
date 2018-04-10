@@ -1,0 +1,81 @@
+.sm-author-box {
+	padding: 30px;
+	background-color: @bg-color;
+	border-bottom: 5px solid @post-box-shadow-color;
+	.author-avatar-wrapper {
+		float: left;
+		.author-avatar-border {
+			border: 3px solid @secondary-color;
+			padding: 6px;
+			border-radius: 999px;
+		}
+		img {
+			display: block;
+			border-radius: 999px;
+		}
+	}
+	.author-info {
+		.name {
+			font-family: @blog-author-name-font, sans-serif;
+			font-style: italic;
+			font-weight: 400;
+			a {
+				color: inherit;
+				&:hover {
+					color: @primary-color;
+				}
+			}
+		}
+		.author-label {
+			font-family: @text-font2, sans-serif;
+			font-size: 11px;
+			font-style: normal;
+			color: @primary-color;
+			text-transform: uppercase;
+			margin-left: 5px;
+		}
+		padding-left: 225px;
+		.social-links {
+			margin-top: 20px;
+			i {
+				display: block;
+				float: left;
+				.iconbox( 30px );
+				line-height: 26px;
+				font-size: 14px;
+				border-radius: 999px;
+				color: @white;
+			}
+			a:not(:last-child) i {
+				margin-right: 5px;
+			}
+			.facebook i {
+				.social-icon-animation( @facebook-color );
+			}
+			.twitter i {
+				.social-icon-animation( @twitter-color );
+			}
+			.instagram i {
+				.social-icon-animation( @instagram-color );
+			}
+			.google-plus i {
+				.social-icon-animation( @google-plus-color );
+			}
+			.dribbble i {
+				.social-icon-animation( @dribbble-color );
+			}
+			.behance i {
+				.social-icon-animation( @behance-color );
+			}
+			.pinterest i {
+				.social-icon-animation( @pinterest-color );
+			}
+			.tumblr i {
+				.social-icon-animation( @tumblr-color );
+			}
+			.linkedin i {
+				.social-icon-animation( @linkedin-color );
+			}
+		}
+	}
+}

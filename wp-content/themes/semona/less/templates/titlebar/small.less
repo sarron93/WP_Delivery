@@ -1,0 +1,80 @@
+.sm-titlebar.small {
+	height: 120px;
+	background-color: @bg-color2;
+	font-family: @text-font2, sans-serif;
+	.lh-background-size( cover );
+	background-position: center center;
+	overflow: hidden;
+	.full-height {
+		height: 100%;
+	}
+	.left {
+		float: left;
+	}
+	.right {
+		float: right;
+	}
+	.page-title {
+		font-size: @text-font-size + 4px;
+	}
+	.titlebar-part {
+		text-align: center;
+		.valign-middle-container();
+		& > div {
+			.valign-middle-nowidth();
+		}
+	}
+	.breadcrumbs {
+		.crf-breadcrumbs {
+			li {
+				display: inline-block;
+				&:not(:last-child):after {
+					content: '/';
+					margin: 0 5px;
+				}
+			}
+		}
+		a {
+			color: @text-color;
+			&:hover {
+				color: @secondary-color;
+			}
+		}
+	}
+	
+	&.bg-gradient1 {
+		.lh-background-image( linear-gradient( to right, @gradient1-start-color, @gradient1-end-color ) ); 
+	}
+	&.bg-gradient2 {
+		.lh-background-image( linear-gradient( to right, @gradient2-start-color, @gradient2-end-color ) ); 
+	}
+	&.with-bg {
+		color: @white;
+		a:not(:hover) {
+			color: @white;
+		}
+	}
+	&.small2,
+	&.small3 {
+		height: 150px;
+	}
+	&.small3 {
+		.container {
+			.valign-middle-container();
+		}
+		.titlebar-part-center {
+			.valign-middle();
+			text-align: center;
+		}
+		.page-title {
+			display: block;
+			font-weight: bold;
+			font-family: @text-font, sans-serif;
+			font-size: 24px;
+			/*text-transform: uppercase;*/
+			margin-bottom: 0;
+			line-height: 1.2;
+			/*text-shadow: 0 2px 1px rgba(0, 0, 0, 0.4);*/
+		}
+	}
+}

@@ -1,0 +1,24 @@
+.bnt{
+    width: 400px !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+.btn-obed{
+    background: #A0C24F !important;
+    height: 143px !important;
+    line-height: 35px !important;
+    text-align: center;
+    padding: 20px 80px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.block-box h5{
+    font-size: 22px;
+}
+.tal{
+    display: block;
+    font-size: 16px;
+    text-align: left !important;
+}

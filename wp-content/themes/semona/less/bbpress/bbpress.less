@@ -1,0 +1,113 @@
+#bbpress-forums {
+	// General links
+	a {
+		color: @heading-color;
+		font-weight: 600;
+		&:hover {
+			color: @primary-color;
+		}
+	}
+	
+	// Forum list
+	ul.bbp-lead-topic,
+	ul.bbp-topics,
+	ul.bbp-forums,
+	ul.bbp-replies,
+	ul.bbp-search-results {
+		border: 1px solid @border-color;
+		font-size: @text-font-size;
+		border-radius: 2px;
+	}
+	
+	// Forum search form
+	#bbp-search-form {
+		margin-bottom: 10px;
+		#bbp_search {
+			height: 35px;
+		}
+		#bbp_search_submit {
+			height: 35px;
+			line-height: 35px;
+			padding-top: 0;
+			padding-bottom: 0;
+			letter-spacing: 0;
+			margin-top: -2px;
+		}
+	}
+	
+	// Header, footer
+	li.bbp-header {
+		background-color: @bg-color2;
+		padding: 12px;
+		color: @heading-color;
+		font-size: 13px;
+		text-transform: uppercase;
+		border-top: 0;
+	}
+	li.bbp-footer {
+		display: none;
+	}
+	li.bbp-body {
+		ul.forum,
+		ul.topic {
+			padding: 12px;
+			border-top-color: @border-color;
+			background-color: @bg-color;
+		}
+	}
+	
+	// Avatar icons
+	.bbp-topic-started-by img {
+		display: none;
+	}
+	p.bbp-topic-meta img.avatar,
+	ul.bbp-reply-revision-log img.avatar,
+	ul.bbp-topic-revision-log img.avatar,
+	div.bbp-template-notice img.avatar,
+	.widget_display_topics img.avatar,
+	.widget_display_replies img.avatar {
+		margin-bottom: 0;//-3px;
+		vertical-align: -20%;
+		border: 0;
+	}
+	
+	// Hide breadcrumb
+	.bbp-breadcrumb {
+		display: none;
+	}
+	
+	// New topic, reply form
+	fieldset.bbp-form {
+		border: 0;
+		padding: 0;
+		legend {
+			color: @heading-color;
+			font-size: @h4-font-size;
+			font-family: @heading-font, sans-serif;
+		}
+	}
+	
+	// Submit button
+	button {
+		letter-spacing: 0;
+	}
+}
+
+// Breadcrumb separator
+.bbp-breadcrumb-sep {
+	padding: 0 5px;
+}
+
+// Notices
+div.bbp-template-notice,
+div.bbp-template-notice,
+div.indicator-hint {
+	padding: 10px 15px;
+	background-color: @bg-color2 !important;
+	border: 0 !important;
+}
+
+// Profile edit page selectbox
+#bbp-your-profile fieldset select {
+	width: auto;
+}

@@ -1,0 +1,136 @@
+.widget_categories,
+.widget_product_categories {
+	.screen-reader-text {
+		display: none;
+	}
+	select {
+		display: block;
+		width: 100%;
+	}
+	& > ul > li {
+		position: relative;
+		cursor: pointer;
+		margin: 0 !important;
+		&:after {
+			.fa;
+			content: '\f055';
+			display: block;
+			position: absolute;
+			right: 0;
+			top: 5px;
+		}
+		&.opened {
+			&:after {
+				content: '\f056';
+			}
+		}
+		a {
+			display: inline-block;
+		}
+		& > a {
+			padding-bottom: 7px;
+			text-transform: uppercase;
+		}
+		&:not(:first-child) {
+			&:after {
+				top: ( 5px + @text-font-size / 2 );
+			}
+			& > a {
+				padding-top: 7px;
+			}
+		}
+		ul.children {
+			display: none;
+			padding-left: 5px;
+			li {
+				a {
+					padding: 6px 0 0;
+				}
+			}
+			//ul.children {
+			//	padding-left: 5px;
+			//}
+		}
+		& > ul.children {
+			padding-bottom: 3px;
+			& > li {
+				position: relative;
+				&:after {
+					.fa;
+					content: '\f067';
+					display: block;
+					position: absolute;
+					right: 0;
+					top: ( 3px + @text-font-size / 2 );
+				}
+				&.opened {
+					&:after {
+						content: '\f068';
+					}
+				}
+				& > a {
+					font-weight: bold;
+				}
+			}
+		}
+	}
+}
+
+header,
+.content-area {
+	.widget_categories,
+	.widget_product_categories {
+		& > ul > li {
+			border-bottom: 1px solid @border-color;
+			& > a {
+				color: @heading-color;
+				font-weight: bold;
+			}
+			& > ul.children {
+				border-top: 1px solid @border-color;
+				& > li > a {
+					color: @heading-color;
+				} 
+			}
+		}
+		ul.children {
+			li {
+				a {
+					color: @text-color;
+				}
+			}
+		}
+		a:hover {
+			color: @primary-color !important;
+		}
+	}
+}
+
+footer {
+	.widget_categories,
+	.widget_product_categories {
+		& > ul > li {
+			border-bottom: 1px solid @footer-border-color;
+			& > a {
+				color: @footer-text-color-lightened;
+				font-weight: bold;
+			}
+			& > ul.children {
+				border-top: 1px solid @footer-border-color;
+				& > li > a {
+					color: @footer-text-color-lightened;
+				} 
+			}
+		}
+		ul.children {
+			li {
+				a {
+					color: @footer-text-color;
+				}
+			}
+		}
+		a:hover {
+			color: @primary-color !important;
+		}
+	}
+}

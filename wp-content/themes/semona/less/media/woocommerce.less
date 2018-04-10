@@ -1,0 +1,57 @@
+@media screen and ( max-width: @screen-sm1 ) {
+	.woocommerce table.shop_table {
+		.sm-quantity-input {
+			.quantity-dec,
+			.quantity-inc {
+				display: none;
+			}
+		}
+	}
+	.woocommerce .woocommerce-result-count,
+	.woocommerce-page .woocommerce-result-count {
+		display: none;
+	}
+}
+@media screen and ( max-width: @screen-xs1 ) {
+	.woocommerce table.shop_table {
+		th.product-remove,
+		td.product-remove,
+		th.product-subtotal,
+		td.product-subtotal {
+			display: none;
+		}
+		td.actions {
+			padding-left: 30px;
+			#coupon_code {
+				width: 100%;
+				margin-bottom: 10px;
+			}
+			.coupon input[type=submit],
+			.buttons input[type=submit] {
+				padding: 0 10px;
+			}
+		}
+	}
+}
+
+@media screen and ( max-width: @screen-md1 ) {
+	.woocommerce table.shop_table {
+		td.actions {
+			.coupon {
+				float: none;
+				width: 100%;
+			}
+			#coupon_code {
+				width: ~'calc(100% - 140px)';
+			}
+			.coupon-input,
+			.buttons {
+				width: 100%;
+				max-width: 100%;
+			}
+			.buttons {
+				margin-top: 10px;
+			}
+		}
+	}
+}

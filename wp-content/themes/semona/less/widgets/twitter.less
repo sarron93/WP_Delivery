@@ -1,0 +1,55 @@
+.sm-widget-tweets {
+	.sm-tweet-container {
+		padding-left: 44px;
+		min-height: 27px;
+		position: relative;
+		&:not(:first-child) {
+			margin-top: 13px;
+		}
+		&:not(:last-child) {
+			padding-bottom: 13px;
+		}
+	}
+	.twitter-icon {
+		position: absolute;
+		left: 0;
+		top: 4px;
+		width: 27px;
+		height: 27px;
+		line-height: 27px;
+		font-size: 20px;
+		text-align: center;
+		border-radius: 3px;
+	}
+}
+footer .sm-widget-tweets {
+	a:not(:hover) {
+		color: lighten( @footer-text-color, 15% );
+	}
+	.sm-tweet-container {
+		&:not(:last-child) {
+			border-bottom: 1px solid @footer-border-color;
+		}
+	}
+	.twitter-icon {
+		background-color: @footer-bg-color3;
+		color: @footer-bg-color;
+	}
+}
+header,
+.content-area {
+	.sm-widget-tweets {
+		a:not(:hover) {
+			color: @text-color-lightened;
+		}
+		.sm-tweet-container {
+			&:not(:last-child) {
+				border-bottom: 1px solid @border-color;
+			}
+		}
+		.twitter-icon {
+			background-color: @primary-color;
+			color: @white;
+		}
+	}
+}

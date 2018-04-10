@@ -1,0 +1,45 @@
+@import "logo.less";
+@import "calendar.less";
+@import "links.less";
+@import "tags.less";
+@import "social-links.less";
+@import "contact-info.less";
+@import "twitter.less";
+@import "accordion.less";
+@import "search.less";
+@import "cf7.less";
+@import "social-images.less";
+@import "categories.less";
+@import "slider.less";
+.content-area,
+header {
+	.crf-widget {
+		& > h4:first-child {
+			padding-bottom: 7px;
+			position: relative;
+			&:after {
+				content: '';
+				display: block;
+				position: absolute;
+				width: 25px;
+				height: 2px;
+				left: 0;
+				bottom: 0;
+				background-color: @primary-color;
+			}
+		}
+		&:not(:first-child) {
+			margin-top: 40px;
+		}
+		ul, ol {
+			margin-left: 0;
+			list-style: none;
+			li {
+				padding-left: 0;
+				&:before {
+					content: none;
+				}
+			}
+		}
+	}
+}

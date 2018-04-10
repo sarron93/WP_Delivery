@@ -1,0 +1,32 @@
+@import "archive.less";
+@import "single.less";
+@import "pagination.less";
+@import "cart.less";
+@import "checkout.less";
+@import "widgets.less";
+@import "message.less";
+@import "minicart.less";
+
+.add_to_cart_inline a.button,
+.return-to-shop a.button,
+.track_order input.button {
+	padding: 0 21px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 10px;
+	letter-spacing: 1px;
+	color: @white;
+	background-color: @primary-color !important;
+	.lh-background-image( linear-gradient( to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.01) ) );
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	.lh-transition( opacity 0.3s );
+	text-transform: uppercase;
+	&:hover {
+		opacity: 0.8;
+		color: @white;
+	}
+}
+
+.return-to-shop {
+	margin-bottom: 50px !important;
+}

@@ -1,0 +1,20 @@
+.sm-isotope-filter {
+	margin-bottom: 40px;
+	text-align: center;
+	.filter {
+		display: inline-block;
+		padding: 7px 16px;
+		border: 1px solid @border-color;
+		border-radius: 3px;
+		color: @portfolio-category-filter-color;
+		.lh-transition( background-color 0.3s, border-color 0.3s, color 0.3s );
+		&:not(:last-child) {
+			margin: 0 5px 5px 0;
+		}
+		&:hover {
+			background-color: @primary-color;
+			border-color: @primary-color;
+			color: @white;
+		}
+	}
+}

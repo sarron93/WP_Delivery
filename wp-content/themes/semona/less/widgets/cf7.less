@@ -1,0 +1,122 @@
+.wpcf7 {
+	br {
+		display: none;
+	}
+	label {
+		display: block;
+		input,
+		textarea,
+		select {
+			margin: 5px 0;
+		}
+		textarea {
+			height: 100px;
+    		resize: none;
+		}
+		&.sm-with-icon {
+			position: relative;
+			input,
+			textarea,
+			select {
+				padding-right: 38px;
+			}
+			&:after {
+				.fa;
+				position: absolute;
+				width: 38px;
+				height: 38px;
+				line-height: 40px;
+				right: 0;
+				top: 0;
+				text-align: center;
+				.zindex( 1 );
+			}
+			&.icon-name:after {
+				content: '\f007';
+			}
+			&.icon-email:after {
+				content: '\f0e0';
+			}
+			&.icon-subject:after {
+				content: '\f0c6';
+			}
+			&.icon-message:after {
+				content: '\f075';
+			}
+		}
+	}
+	input[type=submit],
+	button {
+		display: block;
+		width: 100%;
+		margin-top: 10px;
+		text-transform: uppercase;
+	}
+}
+
+footer .crf-widget .wpcf7 {
+	input[type=text],
+	input[type=email],
+	input[type=URL],
+	input[type=tel],
+	input[type=number],
+	input[type=date],
+	textarea,
+	select {
+		border: 1px solid @footer-bg-color3;
+		&:focus,
+		&:active {
+			border-color: @secondary-color;
+		}
+	}
+	input[type=submit],
+	button {
+		border: 0 !important;
+		background-color: @secondary-color;
+		&:hover {
+			background-color: @secondary-hover-color;
+		}
+	}
+}
+
+.crf-widget {
+	.wpcf7 {
+		input[type=text],
+		input[type=email],
+		input[type=URL],
+		input[type=tel],
+		input[type=number],
+		input[type=date],
+		textarea,
+		select {
+			border: 1px solid @border-color;
+			&:focus,
+			&:active {
+				border-color: @primary-color;
+			}
+		}
+		input[type=submit],
+		button {
+			border: 0 !important;
+			background-color: @grey-color;
+			&:hover {
+				background-color: lighten( @grey-color, 10% );
+			}
+		}
+	}
+}
+
+.content-area.content-blog {
+	.wpcf7 {
+		input[type=text],
+		input[type=email],
+		input[type=URL],
+		input[type=tel],
+		input[type=number],
+		input[type=date],
+		textarea,
+		select {
+			border-color: @bg-color;
+		}
+	}
+}

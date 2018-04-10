@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Loading Bar\n"
+"POT-Creation-Date: 2015-06-30 14:12+0800\n"
+"PO-Revision-Date: 2015-06-30 14:12+0800\n"
+"Last-Translator: Benjamin Intal <bf.intal@gambit.ph>\n"
+"Language-Team: Gambit <bfintal@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-admin-license.php:436
+#, php-format
+msgid "Plugin Activation Page for %s"
+msgstr ""
+
+#: ../class-admin-license.php:438
+#, php-format
+msgid ""
+"Get notified of plugin updates right here in your WordPress admin! Just "
+"enter your purchase code for our plugins in the field/s below to get "
+"automatic updates. Don&apos;t know how to get your purchase code? "
+"%sHere&apos;s how.%s"
+msgstr ""
+
+#: ../class-admin-license.php:446
+msgid "Plugin"
+msgstr ""
+
+#: ../class-admin-license.php:447 ../class-admin-license.php:474
+msgid "Purchase Code"
+msgstr ""
+
+#: ../class-admin-license.php:475
+msgid "Save & Activate Automatic Updates"
+msgstr ""
+
+#: ../class-admin-license.php:480
+msgid "FAQ"
+msgstr ""
+
+#: ../class-admin-license.php:496
+msgid "Our Other Plugins That You Might Find Useful"
+msgstr ""
+
+#: ../class-admin-license.php:534
+msgid "View Demo"
+msgstr ""
+
+#: ../class-admin-license.php:537
+msgid "Learn More"
+msgstr ""
+
+#: ../class-admin-license.php:558
+msgid "Need Support?"
+msgstr ""
+
+#: ../class-admin-license.php:560
+msgid "Enjoying Our Plugin?"
+msgstr ""
+
+#: ../class-admin-license.php:568
+msgid ""
+"Show your appreciation by <strong>rating our plugins 5 stars in CodeCanyon</"
+"strong>. Doing that will greatly help us and will allow us to provide you "
+"with better support and even more awesome plugins. :)"
+msgstr ""
+
+#: ../class-admin-license.php:907
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: ../class-admin-license.php:914
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: ../class-admin-license.php:1054
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../class-admin-license.php:1054
+msgid "Error"
+msgstr ""
+
+#: ../class-admin-pointers.php:23 ../class-plugin.php:49
+msgid "Automatic Updates"
+msgstr ""
+
+#: ../class-admin-pointers.php:24
+msgid "Keep your plugin updated by entering your purchase code here."
+msgstr ""
+
+#: ../class-plugin.php:50
+msgid "Keep Row Scroll Animation updated by entering your purchase code here."
+msgstr ""
+
+#: ../class-plugin.php:88
+msgid "Get Customer Support"
+msgstr ""
+
+#: ../class-plugin.php:92
+msgid "Get More Plugins"
+msgstr ""
+
+#: ../class-row_scroll.php:61
+msgid "Row Scroll Animation"
+msgstr ""
+
+#: ../class-row_scroll.php:64
+msgid "Entrance & exit row animations."
+msgstr ""
+
+#: ../class-row_scroll.php:65
+msgid "Row Adjustments"
+msgstr ""
+
+#: ../class-row_scroll.php:69
+msgid "Entrance animation"
+msgstr ""
+
+#: ../class-row_scroll.php:72 ../class-row_scroll.php:97
+msgid "None"
+msgstr ""
+
+#: ../class-row_scroll.php:73 ../class-row_scroll.php:96
+msgid "Content fly up (animates only the content)"
+msgstr ""
+
+#: ../class-row_scroll.php:74 ../class-row_scroll.php:98
+msgid "Content fade (animates only the content)"
+msgstr ""
+
+#: ../class-row_scroll.php:75 ../class-row_scroll.php:99
+msgid "Content fly left (animates only the content)"
+msgstr ""
+
+#: ../class-row_scroll.php:76 ../class-row_scroll.php:100
+msgid "Content fly right (animates only the content)"
+msgstr ""
+
+#: ../class-row_scroll.php:77 ../class-row_scroll.php:101
+msgid "Scale smaller"
+msgstr ""
+
+#: ../class-row_scroll.php:78
+msgid "Fade in"
+msgstr ""
+
+#: ../class-row_scroll.php:79 ../class-row_scroll.php:103
+msgid "3D Rotate backward"
+msgstr ""
+
+#: ../class-row_scroll.php:80 ../class-row_scroll.php:104
+msgid "3D Rotate forward"
+msgstr ""
+
+#: ../class-row_scroll.php:81 ../class-row_scroll.php:105
+msgid "Carousel forward"
+msgstr ""
+
+#: ../class-row_scroll.php:82 ../class-row_scroll.php:106
+msgid "Fly up"
+msgstr ""
+
+#: ../class-row_scroll.php:83 ../class-row_scroll.php:107
+msgid "Fly left"
+msgstr ""
+
+#: ../class-row_scroll.php:84 ../class-row_scroll.php:108
+msgid "Fly right"
+msgstr ""
+
+#: ../class-row_scroll.php:85
+msgid ""
+"Stick to bottom (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:86
+msgid ""
+"Stick & scale smaller (will make your row have at least half the height of "
+"the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:87 ../class-row_scroll.php:120
+msgid ""
+"3D cube (use 3D cube entrance animation on the next row to make this look "
+"good)"
+msgstr ""
+
+#: ../class-row_scroll.php:89
+msgid ""
+"The animation to play when your row is about to scroll upward into the "
+"viewable area.<br>The <strong>cube</strong> effect requires your row to be "
+"at least half the screen height."
+msgstr ""
+
+#: ../class-row_scroll.php:93
+msgid "Exit animation"
+msgstr ""
+
+#: ../class-row_scroll.php:102
+msgid "Fade out"
+msgstr ""
+
+#: ../class-row_scroll.php:109
+msgid ""
+"Stick to top (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:110
+msgid ""
+"Stick & scale smaller (will make your row have at least the height of the "
+"screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:111
+msgid ""
+"Stick & flip left (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:112
+msgid ""
+"Stick & flip right (will make your row have at least the height of the "
+"screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:113
+msgid ""
+"Stick & flip top (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:114
+msgid ""
+"Stick & flip bottom (will make your row have at least the height of the "
+"screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:115
+msgid ""
+"Stick & fly left (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:116
+msgid ""
+"Stick & fly right (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:117
+msgid ""
+"Stick & fly down (will make your row have at least the height of the screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:118
+msgid ""
+"Stick & rotate left (will make your row have at least the height of the "
+"screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:119
+msgid ""
+"Stick & rotate right (will make your row have at least the height of the "
+"screen)"
+msgstr ""
+
+#: ../class-row_scroll.php:122
+msgid ""
+"The animation to play when your row is about to scroll upward outside the "
+"viewable area.<br>The <strong>cube</strong> effect requires your row to be "
+"at least half the screen height."
+msgstr ""
+
+#: ../class-row_scroll.php:126
+msgid "Fading Title"
+msgstr ""
+
+#: ../class-row_scroll.php:129
+msgid ""
+"You can enter a title here that will be displayed on top of the row whole "
+"and will fade out when the row is fully shown."
+msgstr ""
+
+#: ../class-row_scroll.php:133
+msgid "Title Text Color"
+msgstr ""
+
+#: ../class-row_scroll.php:139
+msgid "Title Background Color"
+msgstr ""
+
+#: ../class-row_scroll.php:145
+msgid "Fix Body Overflow"
+msgstr ""
+
+#: ../class-row_scroll.php:148
+msgid ""
+"Check this if you see an unwanted scrollbar that shows up for a very short "
+"time while scrolling with some effects & some themes."
+msgstr ""
+
+#: ../class-row_scroll.php:153
+msgid "Entrance distance offset"
+msgstr ""
+
+#: ../class-row_scroll.php:156
+#, php-format
+msgid ""
+"The entrance animation ends when your container reaches more than 1/3th of "
+"the screen from the bottom (some effects are different). You can add a num "
+"offset to make this trigger earlier by putting a positive number or later "
+"with a negative number. The value you place here is a percentage of the "
+"screen height. 1 = 1% of the screen height. You can also add a suffix px to "
+"designate pixels."
+msgstr ""
+
+#: ../class-row_scroll.php:160
+msgid "Exit distance offset"
+msgstr ""
+
+#: ../class-row_scroll.php:163
+#, php-format
+msgid ""
+"The exit animation triggers when your container reaches more than 1/3th of "
+"the screen from the top (some effects are different). You can add a number "
+"offset to make this trigger earlier by putting a positive number or later "
+"with a negative number. The value you place here is a percentage of the "
+"screen height. 1 = 1% of the screen height. You can also add a suffix px to "
+"designate pixels."
+msgstr ""
+
+#: ../class-row_scroll.php:318
+msgid "Row Scroll Error: Entrance animation "
+msgstr ""
+
+#: ../class-row_scroll.php:321
+msgid "Row Scroll Error: Exit animation "
+msgstr ""

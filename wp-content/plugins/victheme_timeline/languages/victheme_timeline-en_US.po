@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VicTheme Timeline 1.0\n"
+"POT-Creation-Date: 2015-10-12 09:54+0800\n"
+"PO-Revision-Date: 2015-10-12 09:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: VicTheme.com <support@victheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: composer/timeend.php:25
+msgid "Time Line Ending"
+msgstr ""
+
+#: composer/timeend.php:26
+msgid "Time line ending elements"
+msgstr ""
+
+#: composer/timeend.php:29 composer/timeevents.php:38 composer/timeline.php:37
+#: composer/timelinesimple.php:29 composer/timemajor.php:28
+msgid "Time Line"
+msgstr ""
+
+#: composer/timeend.php:41 composer/timeevents.php:68
+#: composer/timelinesimple.php:165
+msgid "Direction"
+msgstr ""
+
+#: composer/timeend.php:45 composer/timeevents.php:73
+msgid ""
+"Right and left only applicable in vertical mode while top and bottom only "
+"applicable in horizontal mode."
+msgstr ""
+
+#: composer/timeend.php:47 composer/timeevents.php:75 composer/timeline.php:67
+#: composer/timelinesimple.php:56 composer/timelinesimple.php:168
+msgid "Left"
+msgstr ""
+
+#: composer/timeend.php:48 composer/timeevents.php:76 composer/timeline.php:68
+#: composer/timelinesimple.php:57 composer/timelinesimple.php:169
+msgid "Right"
+msgstr ""
+
+#: composer/timeend.php:49 composer/timeevents.php:77
+#: composer/timelinesimple.php:170
+msgid "Top"
+msgstr ""
+
+#: composer/timeend.php:50 composer/timeevents.php:78
+#: composer/timelinesimple.php:171
+msgid "Bottom"
+msgstr ""
+
+#: composer/timeend.php:51 composer/timeline.php:66
+#: composer/timelinesimple.php:55
+msgid "Center"
+msgstr ""
+
+#: composer/timeend.php:65 composer/timeevents.php:92 composer/timeline.php:79
+#: composer/timelinesimple.php:68 composer/timemajor.php:37
+msgid "CSS ID"
+msgstr ""
+
+#: composer/timeend.php:73 composer/timeevents.php:100 composer/timeline.php:86
+#: composer/timelinesimple.php:75 composer/timemajor.php:45
+msgid "CSS Class"
+msgstr ""
+
+#: composer/timeend.php:80 composer/timeevents.php:155 composer/timeline.php:93
+#: composer/timelinesimple.php:250 composer/timemajor.php:60
+msgid "Css"
+msgstr ""
+
+#: composer/timeend.php:82 composer/timeevents.php:157 composer/timeline.php:95
+#: composer/timelinesimple.php:252 composer/timemajor.php:62
+msgid "Design options"
+msgstr ""
+
+#: composer/timeend.php:87 composer/timeevents.php:162
+#: composer/timeline.php:100 composer/timelinesimple.php:257
+#: composer/timemajor.php:67
+msgid "CSS Animation"
+msgstr ""
+
+#: composer/timeend.php:91 composer/timeevents.php:166
+#: composer/timeline.php:104 composer/timelinesimple.php:261
+#: composer/timemajor.php:71
+msgid "No"
+msgstr ""
+
+#: composer/timeend.php:92 composer/timeevents.php:167
+#: composer/timeline.php:105 composer/timelinesimple.php:262
+#: composer/timemajor.php:72
+msgid "Top to bottom"
+msgstr ""
+
+#: composer/timeend.php:93 composer/timeevents.php:168
+#: composer/timeline.php:106 composer/timelinesimple.php:263
+#: composer/timemajor.php:73
+msgid "Bottom to top"
+msgstr ""
+
+#: composer/timeend.php:94 composer/timeevents.php:169
+#: composer/timeline.php:107 composer/timelinesimple.php:264
+#: composer/timemajor.php:74
+msgid "Left to right"
+msgstr ""
+
+#: composer/timeend.php:95 composer/timeevents.php:170
+#: composer/timeline.php:108 composer/timelinesimple.php:265
+#: composer/timemajor.php:75
+msgid "Right to left"
+msgstr ""
+
+#: composer/timeend.php:96 composer/timeevents.php:171
+#: composer/timeline.php:109 composer/timelinesimple.php:266
+#: composer/timemajor.php:76
+msgid "Appear from center"
+msgstr ""
+
+#: composer/timeend.php:98 composer/timeevents.php:173
+#: composer/timeline.php:111 composer/timelinesimple.php:268
+#: composer/timemajor.php:78
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: composer/timeevents.php:34
+msgid "Time Line Events"
+msgstr ""
+
+#: composer/timeevents.php:35
+msgid "Time line events elements"
+msgstr ""
+
+#: composer/timeevents.php:50 composer/timelinesimple.php:149
+msgid "Icon"
+msgstr ""
+
+#: composer/timeevents.php:107
+msgid "Date Time"
+msgstr ""
+
+#: composer/timeevents.php:115 composer/timelinesimple.php:183
+msgid "Day"
+msgstr ""
+
+#: composer/timeevents.php:123 composer/timelinesimple.php:207
+msgid "Month"
+msgstr ""
+
+#: composer/timeevents.php:131 composer/timelinesimple.php:219
+msgid "Year"
+msgstr ""
+
+#: composer/timeevents.php:139 composer/timelinesimple.php:195
+msgid "Date"
+msgstr ""
+
+#: composer/timeevents.php:147
+msgid "Heading Text"
+msgstr ""
+
+#: composer/timeline.php:33
+msgid "Advanced Timeline"
+msgstr ""
+
+#: composer/timeline.php:34
+msgid "Timeline Elements"
+msgstr ""
+
+#: composer/timeline.php:51 composer/timelinesimple.php:40
+msgid "Layout"
+msgstr ""
+
+#: composer/timeline.php:52 composer/timelinesimple.php:41
+msgid "Define the major layout for the timeline element"
+msgstr ""
+
+#: composer/timeline.php:54 composer/timelinesimple.php:43
+msgid "Vertical"
+msgstr ""
+
+#: composer/timeline.php:55 composer/timelinesimple.php:44
+msgid "Horizontal"
+msgstr ""
+
+#: composer/timeline.php:63 composer/timelinesimple.php:52
+msgid "Define the vertical layout default alignment"
+msgstr ""
+
+#: composer/timeline.php:64 composer/timelinesimple.php:53
+msgid "Alignment"
+msgstr ""
+
+#: composer/timelinesimple.php:25
+msgid "Simple Timeline"
+msgstr ""
+
+#: composer/timelinesimple.php:26
+msgid "Simple Timeline Elements"
+msgstr ""
+
+#: composer/timelinesimple.php:82
+msgid "Timeline Items"
+msgstr ""
+
+#: composer/timelinesimple.php:83
+msgid "Events"
+msgstr ""
+
+#: composer/timelinesimple.php:85
+msgid "Enter timeline entry."
+msgstr ""
+
+#: composer/timelinesimple.php:89
+msgid "Start"
+msgstr ""
+
+#: composer/timelinesimple.php:95 composer/timelinesimple.php:106
+#: composer/timelinesimple.php:117
+msgid "Example Heading"
+msgstr ""
+
+#: composer/timelinesimple.php:96 composer/timelinesimple.php:107
+#: composer/timelinesimple.php:118
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium"
+msgstr ""
+
+#: composer/timelinesimple.php:97
+msgid "Monday"
+msgstr ""
+
+#: composer/timelinesimple.php:98
+msgid "12"
+msgstr ""
+
+#: composer/timelinesimple.php:99 composer/timelinesimple.php:110
+msgid "January"
+msgstr ""
+
+#: composer/timelinesimple.php:100
+msgid "2014"
+msgstr ""
+
+#: composer/timelinesimple.php:108
+msgid "Tuesday"
+msgstr ""
+
+#: composer/timelinesimple.php:109 composer/timelinesimple.php:120
+msgid "13"
+msgstr ""
+
+#: composer/timelinesimple.php:111 composer/timelinesimple.php:122
+msgid "2015"
+msgstr ""
+
+#: composer/timelinesimple.php:119
+msgid "Wednesday"
+msgstr ""
+
+#: composer/timelinesimple.php:121
+msgid "February"
+msgstr ""
+
+#: composer/timelinesimple.php:126
+msgid "Ends"
+msgstr ""
+
+#: composer/timelinesimple.php:134
+msgid "Event Type"
+msgstr ""
+
+#: composer/timelinesimple.php:138
+msgid "Normal Events"
+msgstr ""
+
+#: composer/timelinesimple.php:139 composer/timemajor.php:54
+msgid "Major Events"
+msgstr ""
+
+#: composer/timelinesimple.php:140
+msgid "Ending"
+msgstr ""
+
+#: composer/timelinesimple.php:232
+msgid "Text"
+msgstr ""
+
+#: composer/timelinesimple.php:243 composer/timemajor.php:52
+msgid "Content"
+msgstr ""
+
+#: composer/timemajor.php:24
+msgid "Time line Major Marker"
+msgstr ""
+
+#: composer/timemajor.php:25
+msgid "Time line major marker element"
+msgstr ""
+
+#: filters/vc_load_default_templates.php:15
+msgid "* TimeLine Elements"
+msgstr ""
+
+#: victheme_timeline.php:24
+msgid ""
+"VicTheme Timeline depends on VicTheme Core Plugin which is not activated or "
+"missing, Please enable it first before VicTheme Timeline can work properly."
+msgstr ""
+
+#: victheme_timeline.php:27
+msgid "VicTheme Timeline depends on VicTheme Core Plugin API version "
+msgstr ""
+
+#: victheme_timeline.php:47
+msgid ""
+"Timeline requires Visual Composer Plugin enabled before it can function "
+"properly."
+msgstr ""
+
+#: victheme_timeline.php:62
+msgid ""
+"TimeLine requires Visual Composer Plugin version 4.7.0 and above before it "
+"can function properly.\n"
+"             For older visual composer please use TimeLine version 1.4.x."
+msgstr ""
+
+#~ msgid "Set the default map longitude coordinate."
+#~ msgstr "Set the default map longitude coordinate."

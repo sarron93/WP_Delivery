@@ -1,0 +1,156 @@
+.sm-posts-simple-list-style {
+	.sm-post {
+		border-bottom-width: 1px;
+		padding: 0;
+
+		&:not(.sm-post-quote) {
+			background-color: transparent;
+		}
+
+		&.sticky {
+			border-bottom-width: 1px;
+		} 
+
+		ul.post-categories {
+			text-transform: uppercase;
+			font-size: 11px;
+
+			margin-left: 0;
+			list-style: none;
+
+			text-align: left;
+
+			li {
+				margin-bottom: 10px;
+				display: inline-block;
+
+				a {
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+
+				&+li {
+					margin-left: 10px;
+				}
+			}
+		}
+
+		&.smaller .featured-media {
+			float: left;
+
+			max-width: 280px;
+			@media ( max-width: 767px ) {
+				max-width: initial;
+			}
+			
+			width: 100%;
+
+			margin-bottom: 30px;
+
+			margin-left: 0;
+			margin-right: 0;
+			margin-top: 0;
+
+			& + .sm-post-simple-list-content {
+				margin-left: 300px;
+				@media ( max-width: 767px ) {
+					margin-left: 0px;
+				}
+			}
+
+			.clearfix();
+		}
+
+		.sm-post-simple-list-content {
+			padding-bottom: 30px;
+		}
+
+		h3.title {
+			text-align: left;
+
+			font-size: 18px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			line-height: 1.4em;
+			font-weight: normal;
+			.lh-transition( 0.25s );
+
+			position: relative;
+			margin-bottom: 30px;
+
+			&:hover {
+				opacity: 0.6;
+			}
+
+			&:after {
+				max-width: 48px;
+				height: 2px;
+				background-color: #161616;
+				position: absolute;
+				content: '';
+				bottom: -15px;
+				width: 100%;
+				left: 0;
+			}
+		}
+
+		.sm-post-date {
+			text-align: left;
+			font-style: italic;
+		}
+
+		.post-excerpt + .sm-post-date {
+			text-align: left;
+			opacity: 0.5;
+		}
+
+		.post-excerpt {
+			font-size: 14px;
+			margin-bottom: 10px;
+		}
+
+		.sm-simple-more {
+			display: none;
+		}
+
+		/* quote */
+		&.sm-post-quote.smaller {
+			.post-excerpt {	
+				font-size: 20px;
+	    		line-height: 1.4;
+	    		margin-bottom: 30px;
+	    	}
+	    	h3 {
+	    		font-size: 18px;
+			    line-height: 1.4;
+			    margin-bottom: 15px;
+			    text-align: center;
+			    
+			    &:after {
+					max-width: 48px;
+					height: 2px;
+					background-color: #161616;
+					position: absolute;
+					content: '';
+					bottom: -15px;
+					width: 100%;
+					left: 50%;
+					.lh-transform( translateX(-50%) )
+				}
+	    	}
+	    	
+	    	& + .sm-post {
+	    		border-top: 1px solid;
+	    		padding-top: 30px;
+	    	}
+		}
+
+		&.sticky {
+			h3.title {
+				font-size: 24px;
+				letter-spacing: 3px;
+			}
+		}
+	}
+}

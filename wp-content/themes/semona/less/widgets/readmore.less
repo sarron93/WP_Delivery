@@ -1,0 +1,38 @@
+a.sm-readmore {
+	display: inline-block;
+	position: relative;
+	color: @primary-color;
+	font-style: italic;
+	padding-right: 18px;
+	&:before {
+		content: '';
+		position: absolute;
+		width: 10px;
+		height: 1px;
+		top: 50%;
+		right: 3px;
+		background-color: @primary-color;
+		.lh-transition( background-color 0.3s );
+	}
+	&:after {
+		content: '';
+		position: absolute;
+		height: 1px;
+		top: 50%;
+		margin-top: -2px;
+		right: 0;
+		border-width: 2px 0 2px 3px;
+		border-style: solid;
+		border-color: transparent @primary-color;
+		.lh-transition( border-color 0.3s );
+	}
+	&:hover {
+		color: @primary-hover-color;
+		&:before {
+			background-color: @primary-hover-color;
+		}
+		&:after {
+			border-color: transparent @primary-hover-color;
+		}
+	}
+}

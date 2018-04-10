@@ -1,0 +1,31 @@
+.sm-preloader {
+	z-index: 1000000;
+	background-color: @bg-color;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	.lh-transform( translate3d( 0, 0, 20000px ) );
+	.preload-logo {
+		display: block;
+		position: absolute;
+		.vhcenter;
+		//.lh-animation( preloader-logo-animation 0.8s infinite );
+	}
+}
+
+.queryloader__overlay {
+	z-index: 1000001 !important;
+	background-color: transparent !important;
+	.lh-transform( translate3d( 0, 0, 20100px ) );
+}
+.queryloader__overlay__percentage {
+	display: none !important;
+}
+.queryloader__overlay__bar {
+	top: 0 !important;
+	background-color: @primary-color !important;
+	z-index: 1000001;
+	.lh-transform( translate3d( 0, 0, 20200px ) );
+}

@@ -1,0 +1,41 @@
+/*
+Header v4 style is extending header v1 style so this file only contains different styles of v4 from v1.
+*/
+header.header-v4 {
+	.main-nav {
+		text-align: center;
+		& > .container {
+			height: @main-nav-height;
+		}
+		.logo-wrapper,
+		nav {
+			float: none;
+		}
+		.logo-wrapper {
+			display: inline-block;
+		}
+		.main-nav-wrapper {		// Main nav menu
+			border-top: 1px solid @border-color;
+			text-align: center;
+			& > .container {
+				height: @header-v4-main-nav-height;
+			}
+			nav {
+				display: inline-block;
+				text-align: left;
+			}
+		}
+		.main-menu {
+			.menu > .menu-item {
+				& > a {
+					line-height: @header-v4-main-nav-height;
+				}
+			}
+		}
+		&.sticky {
+			& > .container {
+				display: none;
+			}
+		}
+	}
+}

@@ -1,0 +1,249 @@
+@row-height: 110px;
+
+.woocommerce table.shop_table {
+	border-color: @border-color;
+	border-radius: 3px;
+	font-size: @text-font-size;
+	color: @heading-color;
+	margin-bottom: 30px;
+	thead {
+		background-color: @bg-color2;
+		text-transform: uppercase;
+		font-family: @text-font2, sans-serif;
+		font-size: 13px;
+	}
+	th {
+		padding: 12px;
+		&.product-thumbnail {
+			padding-left: 0;
+		}
+	}
+	td.product-remove {
+		padding: 42px 27px;
+		width: 75px;
+		height: @row-height;
+		a {
+			.iconbox( 16px );
+			line-height: 14px;
+			background-color: red;
+			color: @white !important;
+		}
+	}
+	td.product-thumbnail {
+		padding-left: 0;
+		img {
+			display: block;
+			width: 70px;
+		}
+	}
+	td.product-name {
+		a {
+			color: inherit;
+			font-weight: 600;
+			font-size: @text-font-size + 1px;
+			&:hover {
+				color: @primary-color;
+			}
+		}
+		.variation {
+			tr {
+				border: 0;
+			}
+			td {
+				padding: 0;
+				border: 0;
+				font-size: @text-font-size - 1px;
+				line-height: 1.5;
+				&:first-child {
+					padding-right: 20px;
+				}
+			}
+		}
+	}
+	td.product-price {
+		font-family: @text-font2, sans-serif;
+		font-weight: 700;
+		font-size: @text-font-size + 2px;
+	}
+	td.product-quantity {
+		.block {
+			color: inherit;
+			font-family: @text-font2, sans-serif;
+			font-weight: 700;
+		}
+	}
+	td.product-subtotal {
+		font-family: @text-font2, sans-serif;
+		font-weight: 700;
+		font-size: @text-font-size + 2px;
+	}
+	.row-actions {
+		background-color: @bg-color2;
+	}
+	td.actions {
+		padding: 30px 30px 30px 0;
+		.coupon-input {
+			float: left;
+			max-width: 49.9%;
+		}
+		.buttons {
+			float: right;
+			max-width: 49.9%;
+			min-width: 320px;
+		}
+		#coupon_code {
+			width: 170px;
+			height: 38px;
+			padding: 0 15px;
+			font-family: @text-font2, sans-serif;
+			&::-webkit-input-placeholder {
+				font-style: normal;
+			}
+			&:-moz-placeholder {
+				font-style: normal;
+			}
+			&::-moz-placeholder {
+				font-style: normal;
+			}
+			&:-ms-input-placeholder {
+				font-style: normal;
+			}
+		}
+		input[type=submit],
+		.button {
+			padding: 0 21px;
+			height: 38px;
+			font-size: 10px;
+			letter-spacing: 1px;
+			color: @white;
+			.lh-background-image( linear-gradient( to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.01) ) );
+			text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+			.lh-transition( opacity 0.3s );
+			text-transform: uppercase;
+			width: auto !important;	// woocommerce responsive styling gives width of 48% and we don't want it
+			border: none;
+			&:hover {
+				opacity: 0.8;
+			}
+		}
+		.coupon {
+			input[type=submit] {
+				background-color: @secondary-color;
+			}
+		}
+		.buttons input[type=submit] {
+			background-image: none;
+			.lh-background-image( linear-gradient( to right, @gradient2-start-color, @gradient2-end-color ) );
+			margin-right: 10px;
+			border: none;
+		}
+		.checkout-button {
+			min-width: 180px;
+			line-height: 38px;
+			background-color: @primary-color;
+		}
+		.buttons .button {
+			display: block;
+			float: right;
+		}
+	}
+}
+
+.woocommerce-cart .cart-collaterals {
+	@row-height: 45px;
+	margin-bottom: 90px;
+	h2, h3 {
+		font-weight: 600;
+	}
+	.col-cart-shipping-calc,
+	.col-cart-totals {
+		margin-top: 40px;
+	}
+	.col-cart-shipping-calc {
+		.shipping-calculator-form {
+			display: block !important;
+			p.form-row {
+				padding: 0;
+				margin-bottom: 10px;
+			}
+			select, input[type=text] {
+				height: @row-height;
+			}
+			.button {
+				padding: 0 21px;
+				height: 38px;
+				font-size: 10px;
+				letter-spacing: 1px;
+				color: @white;
+				background-color: @grey-color;
+				.lh-background-image( linear-gradient( to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.01) ) );
+				text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+				.lh-transition( opacity 0.3s );
+				text-transform: uppercase;
+				&:hover {
+					opacity: 0.8;
+				}
+			}
+			.cart-shipping-second-row {
+				margin: 0 -5px;
+				div.form-row {
+					padding: 0 5px;
+					margin-bottom: 10px;
+					clear: none;
+					&:before,
+					&:after {
+						content: none;
+					}
+				}
+			}
+			.submit-button-row {
+				margin-top: 20px;
+			}
+		}
+	}
+	.cart_totals {
+		float: none;
+		width: 100%;
+		font-weight: bold;
+		font-family: @text-font2, sans-serif;
+		table {
+			width: 100%;
+			th, td {
+				padding: 0 20px;
+				height: @row-height;
+				line-height: @row-height;
+				background-color: @bg-color2;
+				border-top: 0;
+			}
+			tr:not(:last-child) {
+				th, td {
+					border-bottom: 10px solid @bg-color;
+				}
+			}
+			th {
+				text-transform: uppercase;
+				.lh-transform( scaleX( 1.05 ) );
+				.lh-transform-origin( left center );
+			}
+			td {
+				text-align: right;
+				span {
+					display: block;
+					.lh-transform( scaleX( 1.05 ) );
+					.lh-transform-origin( right center );
+				}
+			}
+			.cart-subtotal,
+			.order-total {
+				td {
+					color: @heading-color;
+				}
+			}
+			.shipping {
+				td {
+					color: @text-color-lightened;
+				}
+			}
+		}
+	}
+}

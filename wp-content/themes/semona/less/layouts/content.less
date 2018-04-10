@@ -1,0 +1,271 @@
+html {
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: visible;
+}
+body {
+	&.sm-site-layout-boxed {
+		background-repeat: repeat;
+		.sm-wrapper {
+			margin: 30px auto;
+			width: 1230px;
+			max-width: 100%;
+			overflow-x: hidden;
+			.lh-box-shadow( 0 0 20px 0 rgba(0, 0, 0, 0.3) );
+		}
+	}
+	&.sm-blank-page {
+		display: table;
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		overflow-x: hidden;
+		.sm-wrapper {
+			display: table-cell;
+			vertical-align: middle;
+			width: 100% !important;
+		}
+	}
+	&.sm-stop-scrolling {
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+	}
+}
+.sm-wrapper {
+	position: relative;
+}
+.sidebar-left {
+	.col-content,
+	.col-sidebar {
+		float: right;
+	}
+}
+.sm-slider-area {
+	position: relative;
+	.zindex( 1 );
+}
+.container {
+	width: 100%;
+}
+.content-area {
+	position: relative;
+	//overflow: hidden;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	.zindex( 1 );
+	ul {
+		margin-left: 25px;
+		list-style: disc outside;	
+		li {
+			margin-bottom: 5px;
+		}
+	}
+	.col-sidebar {
+		margin-bottom: 30px;
+	}
+}
+.content-area.content-blank {
+	background-image: none !important;
+	background-position: center center;
+	.lh-background-size( cover );
+	padding: 0;
+	text-align: center;
+	.valign-middle-container();
+	&:after {
+		content: '';
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		.zindex( -1 );
+	}
+	& > .container {
+		.valign-middle-nowidth();
+	}
+}
+.content-area.content-search {
+	padding-top: 70px !important;
+	padding-bottom: 90px !important;
+	.searched-content {
+		margin-top: 40px;
+	}
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	&.alignleft {
+		float: left;
+		margin: 4px 15px 4px 0;
+	}
+	&.alignright {
+		float: right;
+		margin: 4px 0 4px 15px;
+	}
+	&.aligncenter {
+		display: block;
+		margin: 4px auto 4px auto;
+	}
+}
+figure {
+	max-width: 100%;
+}
+.sm-flexslider {
+	margin: 0 !important;
+	overflow: hidden;
+	.lh-box-shadow( none );
+	border: 0;
+	.lh-border-radius( 0 );
+	background-color: @bg-color;
+	ul {
+		list-style: none;
+		margin-left: 0;
+	}
+	li {
+		margin-left: 0 !important;
+		margin-bottom: 0 !important;
+	}
+	.slides > li:first-child {
+		display: block;
+	}
+	.flex-control-nav {
+		bottom: 15px;
+		.zindex( 10 );
+	}
+	.flex-control-paging li {
+		padding-left: 0;
+		&:not(:last-child) {
+			margin-right: 5px;
+		}
+		a {
+			width: 12px;
+			height: 12px;
+			opacity: 1;
+			background-color: @white;
+			.lh-box-shadow( none );
+			&.flex-active {
+				background-color: @primary-color;
+			}
+		}
+	}
+	.flex-direction-nav {
+		position: static;
+		list-style: none;
+		a {
+			width: 40px;
+			height: 40px;
+			line-height: 40px;
+			text-align: center;
+			font-size: 20px;
+			text-shadow: none;
+			background-color: #c1c8d0;
+			color: @white;
+			border-radius: 3px;
+			&:before {
+				content: none;
+			}
+			&:hover {
+				background-color: @primary-color;
+			}
+		}
+	}
+	.flex-control-thumbs {
+		text-align: center;
+		li {
+			display: inline-block;
+			float: none;
+			width: 100px;
+			height: 70px;
+			overflow: hidden;
+			&:first-child {
+				padding-left: 0;
+			}
+		}
+	}
+}
+.sm-isotope-container {
+	visibility: hidden;
+	.lh-transition( height 0.3s );
+	.sm-isotope-item {
+		opacity: 0;
+		will-change: transform, opacity;
+		&.animating {
+			.lh-transform( translateY( 100px ) );
+			.lh-animation( sm_fadeinup 0.5s ease-in-out forwards );
+		}
+		&.animation-done {
+			opacity: 1;
+		}
+	}
+}
+
+.pp_nav {
+	margin: -2px 15px 0 0;
+}
+.sm-carousel-wrapper {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.sm-carousel {
+	.carousel-item {
+		float: left;
+	}
+}
+
+.sm-spacer-5,
+.sm-spacer-10,
+.sm-spacer-15,
+.sm-spacer-20,
+.sm-spacer-25,
+.sm-spacer-30,
+.sm-spacer-35,
+.sm-spacer-40,
+.sm-spacer-45,
+.sm-spacer-50,
+.sm-spacer-55,
+.sm-spacer-60 {
+	display: block;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.sm-spacer-5 {
+	height: 5px;
+}
+.sm-spacer-10 {
+	height: 10px;
+}
+.sm-spacer-15 {
+	height: 15px;
+}
+.sm-spacer-20 {
+	height: 20px;
+}
+.sm-spacer-25 {
+	height: 25px;
+}
+.sm-spacer-30 {
+	height: 30px;
+}
+.sm-spacer-35 {
+	height: 35px;
+}
+.sm-spacer-40 {
+	height: 40px;
+}
+.sm-spacer-45 {
+	height: 45px;
+}
+.sm-spacer-50 {
+	height: 50px;
+}
+.sm-spacer-55 {
+	height: 55px;
+}
+.sm-spacer-60 {
+	height: 60px;
+}

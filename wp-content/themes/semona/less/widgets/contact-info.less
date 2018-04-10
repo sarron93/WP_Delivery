@@ -1,0 +1,38 @@
+.sm-contact-info {
+	&:not(:first-child) {
+		padding-top: 8px;
+	}
+	&:not(:last-child) {
+		padding-bottom: 8px;
+	}
+	.field,
+	.value {
+		display: inline-block;
+		vertical-align: top;
+	}
+	.field {
+		width: 32%;
+	}
+	.value {
+		width: 67%;
+	}
+}
+footer .sm-contact-info {
+	&:not(:last-child) {
+		border-bottom: 1px solid @footer-border-color;
+	}
+	.field {
+		color: darken( saturate( @footer-text-color, -1%),  10% );
+	}
+}
+header,
+.content-area {
+	.sm-contact-info {
+		&:not(:last-child) {
+			border-bottom: 1px solid @border-color;
+		}
+		.field {
+			color: darken( saturate( @text-color, -1%),  10% );
+		}
+	}
+}

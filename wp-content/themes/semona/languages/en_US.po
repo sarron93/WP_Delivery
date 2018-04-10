@@ -1,0 +1,3997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Semona translation\n"
+"POT-Creation-Date: 2015-10-27 02:16+0800\n"
+"PO-Revision-Date: 2015-10-27 02:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: D:\\Files\\www\\semona\\wp-content\\themes\\semona\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/functions/breadcrumb.php:12 framework/functions/breadcrumb.php:38
+msgid "Home"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:135
+#: framework/lib/customizer/customizer.php:878
+msgid "Search"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:142
+msgid "404 - Page not Found"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:165
+msgid "Search results for: "
+msgstr ""
+
+#: framework/functions/breadcrumb.php:168
+#: framework/lib/customizer/customizer.php:942
+msgid "Error 404 Page"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:173
+msgid "Daily Archives: "
+msgstr ""
+
+#: framework/functions/breadcrumb.php:175
+msgid "Monthly Archives:"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:177
+msgid "Yearly Archives:"
+msgstr ""
+
+#: framework/functions/helpers.php:63
+#: framework/lib/customizer/customizer.php:184 inc/option-params.php:50
+#: inc/option-params.php:63
+msgid "Light"
+msgstr ""
+
+#: framework/functions/helpers.php:64
+msgid "Normal"
+msgstr ""
+
+#: framework/functions/helpers.php:65
+#: framework/lib/customizer/customizer.php:1231
+msgid "Medium"
+msgstr ""
+
+#: framework/functions/helpers.php:66
+msgid "Semi-bold"
+msgstr ""
+
+#: framework/functions/helpers.php:67
+msgid "Bold"
+msgstr ""
+
+#: framework/functions/helpers.php:68
+msgid "Extra Bold"
+msgstr ""
+
+#: framework/functions/helpers.php:69
+msgid "Black"
+msgstr ""
+
+#: framework/functions/init.php:74
+#: framework/lib/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/functions/init.php:75
+#: framework/lib/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/functions/init.php:76
+#: framework/lib/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/functions/init.php:77
+#: framework/lib/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/functions/init.php:88
+#: framework/lib/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/functions/init.php:89
+#: framework/lib/class-tgm-plugin-activation.php:367
+#: framework/lib/class-tgm-plugin-activation.php:2957
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/functions/init.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/functions/init.php:124 templates/header/header-v1.php:90
+#: templates/header/header-v2.php:69 templates/header/header-v3.php:50
+#: templates/header/header-v4.php:98
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: framework/functions/init.php:125
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/functions/init.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: framework/functions/init.php:143
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/functions/init.php:153
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: framework/functions/init.php:161
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: framework/functions/init.php:169
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: framework/functions/init.php:177
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:489
+msgid "Update Required"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:796
+#: framework/lib/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:903
+#: framework/lib/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2168
+msgid "Active"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3294
+#: framework/lib/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3294
+#: framework/lib/class-tgm-plugin-activation.php:3300
+msgid "Hide Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:8
+msgid "Customizer settings successfully imported."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:24
+msgid "Customizer settings successfully reseted to defaults."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:34
+#: framework/lib/customizer/customizer-admin.php:35
+msgid "Settings Manager"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:44
+msgid "Theme Settings Manager"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:45
+msgid "You can manage your customizer settings here."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:50
+msgid "Import Settings"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:53
+msgid ""
+"Upload your customizer settings file here, and we'll import the options into "
+"this site."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:54
+msgid ""
+"Choose a JSON file that was exported in this theme settings manager, and "
+"then click \"Upload and Import.\""
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:58
+msgid "Upload and Import"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:65
+msgid "Export Settings"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:68
+msgid ""
+"Click the button below to export your customizer settings to JSON file and "
+"save it on your computer."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:69
+msgid ""
+"Once you've saved the downloaded file, you can import it in Import Settings "
+"section later."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:72
+msgid "Download Export File"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:79
+msgid "Reset Settings"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:82
+msgid ""
+"If you click the button below, all customizer settings will be resetted to "
+"default values."
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:85
+msgid "Reset Customizer Settings"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:95
+msgid "Do you really want to import customizer settings from file?"
+msgstr ""
+
+#: framework/lib/customizer/customizer-admin.php:100
+msgid "Do you really want to reset your customizer settings?"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:125
+#: templates/portfolio/filter.php:2
+msgid "All"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: framework/lib/customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:62
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:23
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:54
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:61
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:72
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:38
+msgid "Show"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:63
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:24
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:55
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:62
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:73
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:39
+msgid "Hide"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:66
+#: framework/lib/customizer/customizer.php:805
+#: framework/lib/customizer/customizer.php:1584
+#: framework/lib/customizer/customizer.php:2198
+#: framework/lib/customizer/customizer.php:2217
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:43
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:100
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:108
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:175
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:189
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:312
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:323
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:329
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:10
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:17
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:52
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:64
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:44
+msgid "Yes"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:67
+#: framework/lib/customizer/customizer.php:804
+#: framework/lib/customizer/customizer.php:1585
+#: framework/lib/customizer/customizer.php:2199
+#: framework/lib/customizer/customizer.php:2218
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:44
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:99
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:107
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:174
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:188
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:313
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:324
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:330
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:11
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:16
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:53
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:65
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:45
+msgid "No"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:79
+#: framework/lib/customizer/customizer.php:416
+msgid "General"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:87
+#: framework/lib/customizer/customizer.php:94
+msgid "Site Layout"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:90
+msgid "Choose Wide/Boxed site layout here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:105
+msgid "Container & Sidebar Width"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:108
+msgid ""
+"Change content and sidebar width here. Width of contents will be limited by "
+"Main Container Width and placed in center, but you can use stretched rows in "
+"page builder to fill content in browser width. Sidebar width will be "
+"calculated as percentage of Main Container Width. Enter all values without "
+"unit, e.g. 1200"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:112
+msgid "Main Container Width (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:119
+msgid "Sidebar Width (%)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:128
+msgid "In Percent ( Min: 5%, Max: 50% )"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:135 functions.php:300
+#: functions.php:324
+msgid "Logo"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:138
+msgid ""
+"Please select logo images here. You need to choose logo images for light and "
+"dark main menu skins, and also retina logo images."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:142
+msgid "Logo For Light Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:149
+msgid "Retina Logo For Light Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:156
+msgid "Logo For Dark Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:163
+msgid "Retina Logo For Dark Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:173
+msgid "Colors"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:176
+msgid ""
+"Change overall color settings here. These settings will be applied to all "
+"elements, but specific color settings such as shortcode color options will "
+"have higher priority."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:180
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:185 inc/option-params.php:51
+#: inc/option-params.php:64
+msgid "Dark"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:192
+msgid "Primary Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:199
+msgid "Secondary Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:206
+msgid "Gradient 1 Start Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:213
+msgid "Gradient 1 End Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:220
+msgid "Gradient 2 Start Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:227
+msgid "Gradient 2 End Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:234
+#: framework/lib/customizer/customizer.php:1018
+msgid "Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:241
+msgid "Heading Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:248
+msgid "Thin Heading Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:255
+msgid "Heading Underline Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:262
+#: framework/lib/customizer/customizer.php:1032
+msgid "Border Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:269
+#: framework/lib/customizer/customizer.php:1025
+msgid "Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:276 inc/option-params.php:41
+msgid "Secondary Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:286
+msgid "Content Background"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:289
+msgid "You can choose background image for content area here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:293
+#: framework/lib/customizer/customizer.php:997
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:353
+msgid "Background Image"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:300
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:311
+msgid "Boxed Outer Background"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:314
+msgid "You can change outer background in boxed mode here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:319
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:393
+msgid "Outer Background Type"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:327
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:398
+msgid "Outer Background Pattern"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:336
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:403
+msgid "Outer Background Image"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:344
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:406
+msgid "Outer Background Repeat"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:356
+msgid "404 Error Page Background"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:359
+msgid "You can change background image of 404 error page here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:363
+msgid "404 Error Page Bg Image"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:370
+msgid "404 Error Page Bg Repeat"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:381
+msgid "Extra"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:384
+msgid ""
+"Configure extra generic settings here, such as Page Comments, Smooth Scroll "
+"and CSS3 Animations on mobile."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:388
+msgid "Enable Page Comments"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:396
+msgid "CSS3 Animations On Mobile Device"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:408
+#: framework/lib/customizer/customizer.php:1844
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:8
+msgid "Header"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:419
+msgid "You can choose header style and configure generic header settings."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:423
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:28
+msgid "Header Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:436
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:444
+msgid "Show Header Top Border"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:453
+msgid "Show Search Icon"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:462
+msgid "Show WooCommerce Shop Icon"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:471
+msgid "Header v2 Background Image"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:479
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:93
+msgid "Header v2 Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:488
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:499
+msgid "Contact Info"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:502
+msgid ""
+"You can change header contact informations here, phone number and email."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:506
+msgid "Phone Number"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:514
+msgid "Email Address"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:525
+msgid "Topbar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:528
+msgid ""
+"You can change topbar styles here. You can select preset color style or "
+"select default or secondary background style and use custom colors."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:533
+msgid "Show Topbar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:541
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:66
+msgid "Topbar Skin"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:549
+msgid "Topbar Height (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:556
+msgid "Topbar Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:564
+msgid "Topbar Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:572
+msgid "Topbar Social Icon Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:580
+msgid "Show Topbar Bottom Border"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:592
+msgid "Main Menu"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:595
+msgid ""
+"You can select light or dark style. Note that all color option values are "
+"saved separately for light and dark styles."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:600
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:77
+msgid "Main Menu Hover Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:608
+#: framework/lib/customizer/customizer.php:624
+msgid "Main Menu Height (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:616
+msgid "Logo Area Height (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:632
+msgid "Main Menu Font Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:639
+msgid "Main Menu Font Hover Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:646
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:656
+msgid "Logo Area"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:659
+msgid "You can change options about header v3 logo area."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:664
+#: framework/lib/customizer/customizer.php:1158
+msgid "Top Padding (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:671
+#: framework/lib/customizer/customizer.php:1165
+msgid "Bottom Padding (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:678
+msgid "Logo Area Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:688
+msgid "Dropdown"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:691
+msgid ""
+"You can change dropdown menu skin and style here. Megamenu uses these option "
+"values too."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:695
+msgid "Dropdown Width (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:702
+msgid "Dropdown Item Height (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:709
+msgid "Dropdown Item Padding (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:716
+msgid "Dropdown Font Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:723
+msgid "Dropdown Item Arrow Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:730
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:737
+msgid "Dropdown Separator Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:744
+msgid "Dropdown Font Hover Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:751
+msgid "Dropdown Item Bg Hover Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:762
+msgid "Titlebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:771
+#: framework/lib/customizer/customizer.php:2050
+msgid "Blog"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:777
+#: framework/lib/customizer/customizer.php:820
+#: framework/lib/customizer/customizer.php:852
+#: framework/lib/customizer/customizer.php:884
+#: framework/lib/customizer/customizer.php:916
+#: framework/lib/customizer/customizer.php:948
+msgid "Titlebar Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:785
+#: framework/lib/customizer/customizer.php:828
+#: framework/lib/customizer/customizer.php:860
+#: framework/lib/customizer/customizer.php:892
+#: framework/lib/customizer/customizer.php:924
+#: framework/lib/customizer/customizer.php:956
+msgid "Titlebar Background Type"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:793
+#: framework/lib/customizer/customizer.php:836
+#: framework/lib/customizer/customizer.php:868
+#: framework/lib/customizer/customizer.php:900
+#: framework/lib/customizer/customizer.php:932
+#: framework/lib/customizer/customizer.php:964
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:156
+msgid "Titlebar Background Image"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:800
+msgid "Hide Title In Single Posts"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:814
+#: framework/lib/customizer/customizer.php:2138
+#: framework/lib/demo-importer/demo-importer-admin.php:106
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:2
+msgid "Portfolio"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:846
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:2
+msgid "Page"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:910
+#: framework/lib/customizer/customizer.php:2458
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:975
+#: framework/lib/customizer/customizer.php:1930
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:11
+msgid "Footer"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:983
+msgid "Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:989
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:317
+msgid "Footer Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1005
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:360
+msgid "Background Image Opacity (%)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1039
+msgid "Widget Title Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1046
+msgid "Copyright Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1056
+msgid "Footer Bar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1059
+msgid ""
+"Place one or more shortcodes above the footer, for example, callout "
+"shortcode or logo carousel."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1063
+msgid "Footer Bar Shortcodes"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1073
+msgid "Widget Area"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1076
+msgid ""
+"You can change options about footer widget area such as number of columns or "
+"padding."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1080
+msgid "Show Widget Area"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1088
+msgid "Number of Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1092
+#: framework/lib/customizer/customizer.php:2169
+#: framework/lib/megamenu/megamenu.php:65
+msgid "1 Column"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1093
+#: framework/lib/customizer/customizer.php:2068
+#: framework/lib/customizer/customizer.php:2156
+#: framework/lib/customizer/customizer.php:2170
+#: framework/lib/customizer/customizer.php:2468
+#: framework/lib/megamenu/megamenu.php:66
+msgid "2 Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1094
+#: framework/lib/customizer/customizer.php:2069
+#: framework/lib/customizer/customizer.php:2171
+#: framework/lib/customizer/customizer.php:2469
+#: framework/lib/megamenu/megamenu.php:67
+msgid "3 Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1095
+#: framework/lib/customizer/customizer.php:2070
+#: framework/lib/customizer/customizer.php:2157
+#: framework/lib/customizer/customizer.php:2172
+#: framework/lib/customizer/customizer.php:2470
+#: framework/lib/megamenu/megamenu.php:68
+msgid "4 Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1101
+msgid "Padding Top (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1108
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1118
+msgid "Copyright Bar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1121
+msgid ""
+"You can enter copyright text and set footer logo here. You can also choose "
+"to put menu or social icons in the right side of the bar."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1125
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1133
+msgid "Copyright Bar Logo"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1140
+msgid "Copyright Bar Logo Retina"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1147
+msgid "Right Side Content"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1151
+msgid "Navigation Menu"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1152
+msgid "Social Link Icons"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1176
+msgid "Elements"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1184 widgets/accordion.php:71
+msgid "Accordion"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1190
+msgid "Header Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1197
+msgid "Active Header Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1207
+msgid "Button"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1213
+msgid "Default Button Shape"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1217
+#: framework/lib/customizer/customizer.php:1574 widgets/social-links.php:94
+msgid "Rounded"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1218
+#: framework/lib/customizer/customizer.php:1573
+msgid "Square"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1219 widgets/social-links.php:93
+msgid "Round"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1225
+msgid "Default Button Size"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1229
+msgid "Extra Small"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1230
+msgid "Small"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1232
+msgid "Large"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1233
+msgid "Extra Large"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1239
+msgid "Default Letter Spacing (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1251
+msgid "Light Scheme Default Button Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1255
+#: framework/lib/customizer/customizer.php:1263
+msgid "Leave blank to use primary color as default button color."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1259
+msgid "Dark Scheme Default Button Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1267
+msgid "Minimum Width(px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1277
+msgid "Callout"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1283
+msgid "Default Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1287
+msgid "Leave blank to use primary color as default background color."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1303
+msgid "Feature Box"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1309
+msgid "Default Title Tag Font Family"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1318
+msgid "Default Title Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1331
+msgid "Default Title Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1340
+msgid "Default Title Letter Spacing (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1355
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1361
+msgid "Header Text Color 1"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1365
+msgid "Used for Default Theme Background Colors."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1369
+msgid "Header Text Color 2"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1373
+msgid "Used for Custom Background Colors."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1380
+msgid "Latest Tweets"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1386
+msgid "Twitter ID"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1393
+msgid "Consumer Key"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1400
+msgid "Consumer Secret"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1407
+msgid "Access Token"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1414
+msgid "Access Token Secret"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1424
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1430
+msgid "Default Featured Column Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1437
+msgid "Light Skin - Background Color 1"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1444
+msgid "Light Skin - Background Color 2"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1451
+msgid "Light Skin - Heading Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1458
+msgid "Light Skin - Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1465
+msgid "Light Skin - Border Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1472
+msgid "Dark Skin - Background Color 1"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1479
+msgid "Dark Skin - Background Color 2"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1486
+msgid "Dark Skin - Heading Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1493
+msgid "Dark Skin - Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1500
+msgid "Dark Skin - Border Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1510
+msgid "Quotes Slider"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1516
+msgid "Content Font Family"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1527
+msgid "Section Header"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1533
+msgid "Title Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1545
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1557
+msgid "Underline Thickness (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1569
+msgid "Underline Shape"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1580
+msgid "Uppercase Heading"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1594
+msgid "Timeline Posts"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1600
+msgid "Default Spine Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1607
+msgid "Default Border Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1614
+msgid "Default Spine Circle Hover Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1624
+msgid "Vertical Tabs"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1630
+msgid "Light Style Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1637
+msgid "Light Style Active Header Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1644
+msgid "Light Style Inactive Header Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1651
+msgid "Dark Style Text Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1658
+msgid "Dark Style Active Header Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1665
+msgid "Dark Style Inactive Header Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1677
+msgid "Typography"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1685
+msgid "Headings"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1688
+msgid "Change general font options for headings."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1692
+msgid "Heading Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1700
+msgid "Heading Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1708
+msgid "Blog & Portfolio Heading Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1716
+msgid "H1 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1728
+msgid "H2 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1740
+msgid "H3 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1752
+msgid "H4 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1764
+msgid "H5 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1776
+msgid "H6 Tag Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1791
+msgid "Text"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1794
+msgid "Change font options for general texts."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1798
+msgid "Text Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1806
+msgid "Text Font 2"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1814
+msgid "Text Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1822
+msgid "Text Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1834
+msgid "Text Line Height (em)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1847
+msgid ""
+"Change header font options. You can change fonts for topbar, main menu, "
+"mobile menu and dropdown menus."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1851
+msgid "Topbar Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1859
+msgid "Topbar Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1867
+msgid "Topbar Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1879
+msgid "Topbar Icon Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1891
+msgid "Menu Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1899
+msgid "Menu Font Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1911
+msgid "Main Menu Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1919
+msgid "Dropdown Menu Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1933
+msgid ""
+"Change footer font options. You can change fonts of general text and widget "
+"headings."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1937
+msgid "Widget Heading Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1945
+msgid "Widget Heading Font Size 1 (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1954
+msgid "Controls widget heading font size in footer style 1."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1958
+msgid "Widget Heading Font Size 2 (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1967
+msgid "Controls widget heading font size in footer style 2,3,4."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1971
+msgid "Widget Heading Font Weight"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1979
+msgid "Footer Text Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1987
+msgid "Copyright Bar Font"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:1995
+msgid "Social Icon Size (px)"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2011
+msgid "Preloader"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2013
+msgid "Choose to show or hide preloader, and configure progress bar color."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2017
+msgid "Enable Preloader"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2025
+msgid "Preloader logo"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2032
+msgid "Preloader logo Retina"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2039
+msgid "Preloader Progress Bar Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2052
+msgid ""
+"You can configure settings for blog archive/category and single pages here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2056
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2064
+msgid "Blog Grid/Masonry/Simple/Modern Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2077
+msgid "Blog Index Page Title"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2084
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2091
+msgid "Blog Date Format"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2098
+#: framework/lib/customizer/customizer.php:2186
+msgid "Archive Pagination Type"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2106
+msgid "Blog Background Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2113
+msgid "Post Format Box Bg Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2120
+msgid "Read More Link Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2127
+msgid "Post Bottom Shadow Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2140
+msgid "You can configure settings for portfolio pages here."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2144
+msgid "Portfolio Archive Layout"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2152
+msgid "Portfolio Masonry Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2158
+msgid "6 Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2165
+msgid "Portfolio Grid Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2179
+msgid "Portfolio Items Per Page"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2194
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:50
+msgid "Show Related Portfolios"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2205
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:57
+msgid "Related Portfolios Style"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2213
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:62
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:43
+msgid "Show Comments"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2224
+msgid "Grid v2 Post Shadow Color"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2231
+msgid "Portfolio Slug"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2235
+msgid ""
+"Note: you must update your permalink structure after changing this option. "
+"Go to Admin, then Settings / Permalinks. Click Save Changes."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2243
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:12
+#: framework/lib/sidebar_generator.php:183
+msgid "Sidebars"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2245
+msgid ""
+"Select sidebar and its position for pages, blog, portfolio, search and "
+"woocommerce pages."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2249
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2257
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2265
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2273
+msgid "Portfolio Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2281
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2289
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2297
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2305
+msgid "Search Page Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2313
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2321
+msgid "WooCommerce Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2329
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2337
+msgid "bbPress Sidebar Position"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2350
+msgid "Social Links"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2352
+msgid "Type in social link addresses. Enter full urls in the fields."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2356 widgets/social-links.php:17
+msgid "Facebook"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2363 widgets/social-links.php:17
+msgid "Twitter"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2370 widgets/social-links.php:17
+msgid "Google+"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2377 widgets/instagram.php:84
+#: widgets/social-links.php:17
+msgid "Instagram"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2384 widgets/social-links.php:17
+msgid "Pinterest"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2391 widgets/social-links.php:17
+msgid "Dribbble"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2398 widgets/social-links.php:17
+msgid "Skype"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2405
+msgid "Youtube"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2412
+msgid "RSS"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2419 widgets/social-links.php:17
+msgid "Tumblr"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2426
+msgid "Behance"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2433 widgets/social-links.php:17
+msgid "Vimeo"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2440
+msgid "Github"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2447 widgets/social-links.php:17
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2460
+msgid "Configure WooCommerce settings in this section."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2464
+msgid "Product Grid Columns"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2476
+msgid "Products Per Page"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2487
+msgid "Custom Code"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2489
+msgid ""
+"Enter your custom CSS and JS code here. You can use custom codes to quickly "
+"make small changes or put analytics js code. Do not place any <script> or "
+"<style> tags as they're already added."
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2493
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/lib/customizer/customizer.php:2500
+msgid "Custom JS"
+msgstr ""
+
+#: framework/lib/customizer/default-options.php:269
+msgid "Blog Index Page"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:6
+#: framework/lib/demo-importer/demo-importer-admin.php:7
+msgid "Demo Importer"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:15
+#: framework/lib/demo-importer/demo-importer-admin.php:20
+msgid "Demo Content Importer"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:24
+msgid "Select which demo you would like to import:"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:26
+msgid "Business Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:27
+msgid "Agency Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:28
+msgid "Fashion Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:29
+msgid "App Demo 01"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:30
+msgid "App Demo 02"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:31
+msgid "New Blog Styles Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:32
+msgid "One Page Agency Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:33
+msgid "Personal Resume Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:34
+msgid "Ecommerce Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:35
+msgid "Construction Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:36
+msgid "Restaurant Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:37
+msgid "Creative Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:38
+msgid "Ebook Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:39
+msgid "Movie Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:40
+msgid "Gym Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:41
+msgid "Travel Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:42
+msgid "Cleaning Demo"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:46
+msgid "Click the button below to load demo content."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:48
+msgid "Import Demo Content"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:51
+msgid "Important Notes"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:53
+msgid "All customizer settings will be overwritten."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:54
+msgid "Please install all required plugins before loading demo content."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:55
+msgid ""
+"It will take a few minutes to download all attachments from demo website."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:75
+msgid "Importing"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:89
+msgid "Errors occurred while importing"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:94
+msgid "Error occurred during import process. Possible server error."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:100
+msgid "Posts"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:103
+msgid "Pages"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:109
+msgid "Contact Forms"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:112
+msgid "Products"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:115
+msgid "Importing Widgets..."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:129
+msgid "Errors occurred while importing widgets:"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:134
+#: framework/lib/demo-importer/demo-importer-admin.php:159
+#: framework/lib/demo-importer/demo-importer-admin.php:184
+msgid "Failed to connect to server."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:140
+msgid "Importing Customizer Settings..."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:154
+msgid "Errors occurred while importing customizer settings:"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:165
+msgid "Importing Sliders..."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:179
+msgid "Errors occurred while importing sliders:"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:190
+msgid "Attachments"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:193
+msgid "Menu"
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-admin.php:196
+msgid "Import finished."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-ajax.php:45
+msgid ""
+"Failed to load importer php files. Use WordPress Importer plugin to manually "
+"load demo content xml file."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-ajax.php:411
+msgid "Revolution Slider plugin is not installed or activated."
+msgstr ""
+
+#: framework/lib/demo-importer/demo-importer-ajax.php:413
+msgid ""
+"zipArchive extension is not enabled in your hosting. You need this extension "
+"for Revolution Slider import."
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:32
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:64
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:106
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:128
+msgid "Site does not support widget"
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:164
+msgid "Widget already exists"
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:213
+msgid "Imported"
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:216
+msgid "Imported to Inactive"
+msgstr ""
+
+#: framework/lib/demo-importer/widget-importer/widget-importer.php:223
+msgid "No Title"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:42
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:72
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:84
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:89
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:279
+#: framework/lib/demo-importer/wordpress-importer/parsers.php:464
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:140
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:149
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:200
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:204
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:213
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:141
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:184
+msgid "All done."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:184
+msgid "Have fun!"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:185
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:205
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:221
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:246
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:272
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:273
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:275
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:285
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:288
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:292
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:305
+msgid "Import author:"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:316
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:319
+msgid "as a new user:"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:327
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:329
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:330
+msgid "- Select -"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:380
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:431
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:471
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:517
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:658
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:543
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:565
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:789
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:796
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:869
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:882
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:926
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:932
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:939
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:944
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:950
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:1048
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:1055
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:1070
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/lib/demo-importer/wordpress-importer/wordpress-importer.php:1071
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/lib/featured-galleries/components/metabox.php:11
+msgid "Featured Gallery"
+msgstr ""
+
+#: framework/lib/featured-galleries/components/metabox.php:30
+msgid "Select Images"
+msgstr ""
+
+#: framework/lib/featured-galleries/components/metabox.php:41
+msgid "Edit Selection"
+msgstr ""
+
+#: framework/lib/featured-galleries/components/metabox.php:54
+msgid "Remove All"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:48
+msgid "Menu Item Icon"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:53
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:58
+msgid "Full Width Mega Menu"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:63
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:74
+msgid "Mega Menu Background"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:163
+msgid "Set Background Image"
+msgstr ""
+
+#: framework/lib/megamenu/megamenu.php:164
+msgid "Remove Image"
+msgstr ""
+
+#: framework/lib/metaboxes/metaboxes.php:17
+#: framework/lib/metaboxes/metaboxes.php:23
+msgid "Post Options"
+msgstr ""
+
+#: framework/lib/metaboxes/metaboxes.php:19
+msgid "Page Options"
+msgstr ""
+
+#: framework/lib/metaboxes/metaboxes.php:21
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:9
+msgid "Page Title Bar"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:10
+msgid "Sliders"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:13
+msgid "Background"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:14
+msgid "Paddings"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:21
+msgid "Display Header"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:22
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:42
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:53
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:60
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:71
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:311
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:322
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:374
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:9
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:51
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:63
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:37
+#: framework/lib/sidebar_generator.php:300
+#: framework/lib/sidebar_generator.php:316 inc/option-params.php:166
+msgid "Default"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:25
+msgid "Choose to show or hide the header."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:29
+msgid ""
+"Choose header style. This option overrides theme customizer option value."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:34
+msgid "Header v1 options"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:41
+msgid "Transparent Header"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:45
+msgid ""
+"Choose to enable transparent header skin. Note: transparent header works "
+"only when header is below slider. You can configure header position in "
+"Sliders tab of this option panels."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:48
+msgid "Transparent Header Skin"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:49
+msgid ""
+"Choose transparent header skin. Use Light for light background, and Dark for "
+"dark background. This option will override theme customizer option value."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:52
+msgid "Display Header Top Border"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:56
+msgid "Choose to show or hide top border of header."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:59
+msgid "Display Topbar"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:63
+msgid "Choose to show or hide topbar."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:67
+msgid ""
+"Choose topbar skin. This option will override theme customizer option value."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:70
+msgid "Display Topbar Bottom Border"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:74
+msgid "Choose to show or hide bottom border of topbar."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:78
+msgid ""
+"Choose main menu hover style. This option will override theme customizer "
+"option value."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:86
+msgid "Header v2 options"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:94
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:102
+msgid ""
+"Choose header v2 skin. Use Light for light background, and Dark for dark "
+"background. This option will override theme customizer option value."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:98
+msgid "Stretch header to browser width"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:106
+msgid "Hide Logo"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:110
+msgid "Choose Yes to hide logo in header v2 layout."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:119
+msgid "Header v3 options"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:126
+msgid "Logo Area Background Color (Hex Code)"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:127
+msgid "Controls the background color of header v3 logo area."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:138
+msgid "Title Bar"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:140
+msgid "Choose title bar style. Select None to hide titlebar."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:145
+msgid "Title Bar Background Type"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:147
+msgid ""
+"Choose title bar background type. Note that only image background works for "
+"Large style."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:157
+msgid ""
+"Select an image for titlebar background. This option will override "
+"background image set in theme customizer, but if left empty theme customizer "
+"value will be used."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:162
+msgid "Titlebar Subtitle"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:163
+msgid "Input subtitle for this post/page/portfolio for titlebar style Large."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:172
+msgid "Hide Navigation"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:177
+msgid ""
+"Choose Yes to hide navigation links at the bottom of large-style titlebar."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:186
+msgid "Show Titlebar Breadcrumbs"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:191
+msgid "Choose Yes to show Breadcrumbs bar"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:201
+msgid "Slider Type"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:202
+msgid "- No Slider -"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:203
+msgid "LayerSlider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:204
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:205
+msgid "Custom Slider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:206
+msgid "Select the type of slider that displays."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:210
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:240
+msgid "- Select a slider -"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:224
+msgid "LayerSlider #"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:229
+msgid "Select LayerSlider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:231
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:253
+msgid "Select the unique name of the slider."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:251
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:263
+msgid "Custom Slider Shortcode"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:264
+msgid "Enter custom slider shortcode here."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:272
+msgid "Slider Position"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:273
+msgid "Below"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:274
+msgid "Above"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:276
+msgid "Choose to place slider below or above header."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:284
+msgid "Slider Decoration"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:285
+#: inc/option-params.php:137 inc/option-params.php:145
+msgid "None"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:286
+msgid "Rounded Triangle Downwards"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:288
+msgid "Choose Slider Decoration Style."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:296
+msgid "Decoration Skin For"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:297
+msgid "Dark Colored Slider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:298
+msgid "Light Colored Slider"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:300
+msgid "Choose color skin for slide down icon."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:310
+msgid "Display Footer"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:314
+msgid "Choose to show or hide the footer."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:318
+msgid "Choose footer style."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:321
+msgid "Display Widget Area"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:325
+msgid "Choose to show or hide widget area."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:328
+msgid "Display Footer Bar"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:331
+msgid "Choose to show or hide footer bar."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:336
+msgid "Footer Bar Shortcode"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:337
+msgid ""
+"Place one or more shortcodes above the footer, for example, callout "
+"shortcode or logo carousel. Leave empty to use theme option settings."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:343
+msgid "Footer v3 options"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:354
+msgid ""
+"Select an image to use for the footer background. Note: this options only "
+"works for style 3."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:361
+msgid ""
+"Controls background image opacity in footer in percent, e.g.10. Leave blank "
+"to use theme option value. Note: this options only works for style 3."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:373
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:375
+#: inc/option-params.php:124 widgets/social-links.php:105
+msgid "Right"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:376
+#: inc/option-params.php:123 widgets/social-links.php:103
+msgid "Left"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:377
+msgid "Select the sidebar position."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:382
+msgid "Content Background Image"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:382
+msgid "Select an image to use for the main content area."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:385
+msgid "Content Background Color (Hex Code)"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:385
+msgid ""
+"Controls the background color of the main content area. Note: you can use "
+"theme background color by entering #bg, and theme background color 2 by "
+"entering #bg2."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:388
+msgid "Content Background Repeat"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:390
+msgid "Select how the content area background image repeats."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:395
+msgid ""
+"Choose to use pattern or imge for outer area background. Note: all outer "
+"area background options are effective in boxed mode only."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:400
+msgid "Select background pattern of outer area."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:403
+msgid "Select an image to use for the outer area in boxed mode."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:408
+msgid "Select how the outer area background image repeats."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:413
+msgid "Content Top Padding (px)"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:413
+msgid "Padding top of main content. Leave empty to use default value 80."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:414
+msgid "Content Bottom Padding (px)"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/common_options.php:414
+msgid "Padding bottom of main content. Leave empty to use default value 80."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:8
+msgid "Enable Comments"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:12
+msgid "Choose Yes to enable comments in this page."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:15
+msgid "Use Onepage Menu Navigation"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/page_options.php:18
+msgid "Choose Yes to enable onepage menu navigation."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:8
+msgid "Portfolio Layout"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:9
+msgid "Full Width Content With Aside Info"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:10
+msgid "Full Width Content Without Aside Info"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:11
+msgid "Aside Content"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:12
+msgid "Aside Content Without Info"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:13
+msgid ""
+"Select layout of portfolio single page. Note that \"Full Width Content "
+"Without Aside Info\" layout will be best suited for building portfolio "
+"content using Visual Composer."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:16
+msgid "Masonry Image Size"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:17
+msgid "X * X"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:18
+msgid "X * 2X"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:19
+msgid "2X * X"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:20
+msgid "2X * 2X"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:21
+msgid ""
+"Select featured image size in masonry layout. Note: it's always recommended "
+"to set featured image for portfolio."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:24
+msgid "Featured Gallery/Image Max Width"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:25
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:29
+msgid ""
+"Enter the name of the client personnel or company. Leave empty to disable "
+"this setting."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:28
+msgid "Featured Gallery/Image Max Height"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:32
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:8
+msgid "Featured Audio/Video Type"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:33
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:9
+msgid "Embed Code"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:34
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:10
+msgid "Hosted File URL"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:35
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:11
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:40
+msgid "Choose to show or hide related posts on this post."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:38
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:15
+msgid "Video / Audio Embed Code"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:38
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:16
+msgid ""
+"Copy and paste embed code of your favorite youtube, vimeo or soundcloud "
+"media."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:41
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:26
+msgid "Video / Audio Hosted File URL"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:41
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:27
+msgid "Copy and paste full url of audio/video."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:44
+msgid "Client"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:44
+msgid "Enter the name of the client personnel or company. Leave empty to hide."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:47
+msgid "Demo Link"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:47
+msgid "Enter the demo link of the project. Leave empty to hide."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:54
+msgid "Choose to display or hide related portfolios."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:59
+msgid "Select style of related portfolios for this portfolio post."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/portfolio_options.php:66
+msgid "Choose to display or hide comments."
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:2
+msgid "Post"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:36
+msgid "Show Related Posts"
+msgstr ""
+
+#: framework/lib/metaboxes/views/metaboxes/post_options.php:46
+msgid "Choose to show or hide comments."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:169
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:190
+#, php-format
+msgid ""
+"Are you sure you want to remove %s?\\nThis will remove any widgets you have "
+"assigned to this sidebar."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:198
+msgid "Sidebar Name"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:205
+msgid "Sidebar Generator"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:207
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:208
+msgid ""
+"A CSS class is assigned to each of your sidebar, use this styling to "
+"customize the sidebars."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:212
+msgid "Add Sidebar"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:217
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:218
+msgid "CSS class"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:219
+msgid "Remove"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:232
+msgid "Remove this sidebar"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:240
+msgid "No Sidebars defined"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:293
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:294
+msgid "Select sidebar. Choose \"No Sidebar\" for full width."
+msgstr ""
+
+#: framework/lib/sidebar_generator.php:301
+#: framework/lib/sidebar_generator.php:317 inc/option-params.php:114
+msgid "No Sidebar"
+msgstr ""
+
+#: functions.php:483
+msgid "Load More"
+msgstr ""
+
+#: inc/option-params.php:5
+msgid "Wide"
+msgstr ""
+
+#: inc/option-params.php:6
+msgid "Boxed"
+msgstr ""
+
+#: inc/option-params.php:11
+msgid "Pattern 1"
+msgstr ""
+
+#: inc/option-params.php:12
+msgid "Pattern 2"
+msgstr ""
+
+#: inc/option-params.php:13
+msgid "Pattern 3"
+msgstr ""
+
+#: inc/option-params.php:18
+msgid "Pattern"
+msgstr ""
+
+#: inc/option-params.php:19 inc/option-params.php:158
+#: templates/blog/classic/content-gallery.php:28
+#: templates/blog/grid/content-gallery.php:21
+#: templates/blog/simple-list/content-gallery.php:18
+#: templates/blog/simple/content-gallery.php:23
+#: templates/blog/single/content-gallery.php:26
+#: templates/portfolio/single/featured-media-gallery.php:22
+msgid "Image"
+msgstr ""
+
+#: inc/option-params.php:24
+msgid "No Repeat"
+msgstr ""
+
+#: inc/option-params.php:25
+msgid "Repeat"
+msgstr ""
+
+#: inc/option-params.php:26
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/option-params.php:27
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/option-params.php:32 inc/option-params.php:70 inc/option-params.php:101
+msgid "Style 1"
+msgstr ""
+
+#: inc/option-params.php:33 inc/option-params.php:71 inc/option-params.php:102
+msgid "Style 2"
+msgstr ""
+
+#: inc/option-params.php:34 inc/option-params.php:72 inc/option-params.php:103
+msgid "Style 3"
+msgstr ""
+
+#: inc/option-params.php:35 inc/option-params.php:73
+msgid "Style 4"
+msgstr ""
+
+#: inc/option-params.php:40
+msgid "Default Skin"
+msgstr ""
+
+#: inc/option-params.php:42
+msgid "Primary Color Background"
+msgstr ""
+
+#: inc/option-params.php:43
+msgid "Gradient Background 1"
+msgstr ""
+
+#: inc/option-params.php:44
+msgid "Gradient Background 2"
+msgstr ""
+
+#: inc/option-params.php:45
+msgid "Black Background"
+msgstr ""
+
+#: inc/option-params.php:56
+msgid "Hover Style 1"
+msgstr ""
+
+#: inc/option-params.php:57
+msgid "Hover Style 2"
+msgstr ""
+
+#: inc/option-params.php:58
+msgid "Hover Style 3"
+msgstr ""
+
+#: inc/option-params.php:79
+msgid "Classic"
+msgstr ""
+
+#: inc/option-params.php:80
+msgid "Grid"
+msgstr ""
+
+#: inc/option-params.php:81
+msgid "Masonry"
+msgstr ""
+
+#: inc/option-params.php:82
+msgid "Simple Grid"
+msgstr ""
+
+#: inc/option-params.php:83
+msgid "Simple List"
+msgstr ""
+
+#: inc/option-params.php:84
+msgid "Modern"
+msgstr ""
+
+#: inc/option-params.php:90
+msgid "Masonry v1"
+msgstr ""
+
+#: inc/option-params.php:91
+msgid "Masonry v2"
+msgstr ""
+
+#: inc/option-params.php:92
+msgid "Grid v1"
+msgstr ""
+
+#: inc/option-params.php:93
+msgid "Grid v2"
+msgstr ""
+
+#: inc/option-params.php:94
+msgid "Grid v3"
+msgstr ""
+
+#: inc/option-params.php:95
+msgid "Grid v4"
+msgstr ""
+
+#: inc/option-params.php:130
+msgid "Pagination"
+msgstr ""
+
+#: inc/option-params.php:131
+msgid "Load More Button"
+msgstr ""
+
+#: inc/option-params.php:132
+msgid "Infinte Scroll"
+msgstr ""
+
+#: inc/option-params.php:138 inc/option-params.php:146
+msgid "Small 1"
+msgstr ""
+
+#: inc/option-params.php:139 inc/option-params.php:147
+msgid "Small 2"
+msgstr ""
+
+#: inc/option-params.php:140 inc/option-params.php:148
+msgid "Small 3"
+msgstr ""
+
+#: inc/option-params.php:149
+msgid "Large 1"
+msgstr ""
+
+#: inc/option-params.php:150
+msgid "Large 2"
+msgstr ""
+
+#: inc/option-params.php:155
+msgid "Background Color 2"
+msgstr ""
+
+#: inc/option-params.php:156
+msgid "Gradient 1"
+msgstr ""
+
+#: inc/option-params.php:157
+msgid "Gradient 2"
+msgstr ""
+
+#: inc/woocommerce.php:80
+msgid "No ratings"
+msgstr ""
+
+#: inc/woocommerce.php:108
+msgid "In stock"
+msgstr ""
+
+#: inc/woocommerce.php:111
+msgid "Out of stock"
+msgstr ""
+
+#: inc/woocommerce.php:117
+msgid "SKU:"
+msgstr ""
+
+#: inc/woocommerce.php:117
+msgid "N/A"
+msgstr ""
+
+#: templates/404.php:9
+msgid "It looks like that page doesn't exist."
+msgstr ""
+
+#: templates/404.php:10
+msgid "Maybe, it's been removed!"
+msgstr ""
+
+#: templates/404.php:12 templates/empty.php:4 templates/titlebar/large.php:19
+#: templates/titlebar/large2.php:16
+msgid "Back Home"
+msgstr ""
+
+#: templates/404.php:18
+msgid "Type a keyword and search again..."
+msgstr ""
+
+#: templates/blog/blog-slider/content-body.php:6
+msgid "READ MORE"
+msgstr ""
+
+#: templates/blog/classic/content-body-quote.php:12
+#: templates/blog/classic/content-body.php:5
+#: templates/blog/grid/content-body.php:12
+#: templates/blog/modern/content-body.php:8
+#: templates/blog/simple/content-audio.php:45
+#: templates/blog/simple/content-gallery.php:47
+#: templates/blog/simple/content-image.php:45
+#: templates/blog/simple/content-video.php:45
+#: templates/blog/single/content-body-quote.php:10
+msgid "0 Comments"
+msgstr ""
+
+#: templates/blog/classic/content-body-quote.php:12
+#: templates/blog/classic/content-body.php:5
+#: templates/blog/grid/content-body.php:12
+#: templates/blog/simple/content-audio.php:45
+#: templates/blog/simple/content-gallery.php:47
+#: templates/blog/simple/content-image.php:45
+#: templates/blog/simple/content-video.php:45
+#: templates/blog/single/content-body-quote.php:10
+msgid "1 Comments"
+msgstr ""
+
+#: templates/blog/classic/content-body-quote.php:12
+#: templates/blog/classic/content-body.php:5
+#: templates/blog/grid/content-body.php:12
+#: templates/blog/modern/content-body.php:8
+#: templates/blog/simple/content-audio.php:45
+#: templates/blog/simple/content-gallery.php:47
+#: templates/blog/simple/content-image.php:45
+#: templates/blog/simple/content-video.php:45
+#: templates/blog/single/content-body-quote.php:10
+msgid "% Comments"
+msgstr ""
+
+#: templates/blog/classic/content-body-quote.php:15
+#: templates/blog/classic/content-body.php:6
+#: templates/blog/single/content-body-quote.php:13
+msgid "Likes"
+msgstr ""
+
+#: templates/blog/classic/content-body-quote.php:19
+#: templates/blog/classic/content-body.php:13
+#: templates/blog/grid/content-body-quote.php:11
+#: templates/blog/grid/content-body.php:15
+#: templates/blog/modern/content-body-quote.php:15
+#: templates/blog/simple-list/content-body-quote.php:11
+#: templates/blog/simple/content-body-quote.php:11
+#: templates/blog/single/content-body-quote.php:17
+msgid "Keep Reading"
+msgstr ""
+
+#: templates/blog/modern/content-body.php:8
+msgid "1 Comment"
+msgstr ""
+
+#: templates/blog/related/content-no-image.php:8
+#: templates/blog/related/content.php:28
+msgid "by"
+msgstr ""
+
+#: templates/blog/related/loop.php:5
+msgid "Related Posts"
+msgstr ""
+
+#: templates/blog/simple/content-audio.php:9
+#: templates/blog/simple/content-gallery.php:5
+#: templates/blog/simple/content-image.php:5
+#: templates/blog/simple/content-video.php:9
+msgid "Published on "
+msgstr ""
+
+#: templates/blog/single/author.php:4
+#: templates/blog/single/content-image.php:20
+msgid "Author Avatar"
+msgstr ""
+
+#: templates/blog/single/author.php:8
+msgid "Author"
+msgstr ""
+
+#: templates/blog/single/comments.php:12
+#, php-format
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#: templates/blog/single/comments.php:15
+msgid "Edit"
+msgstr ""
+
+#: templates/blog/single/comments.php:16
+msgid "Reply"
+msgstr ""
+
+#: templates/blog/single/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: templates/blog/single/comments.php:39
+msgid "Comments"
+msgstr ""
+
+#: templates/blog/single/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/blog/single/comments.php:65
+msgid "Your Name..."
+msgstr ""
+
+#: templates/blog/single/comments.php:66
+msgid "Email Address..."
+msgstr ""
+
+#: templates/blog/single/comments.php:67
+msgid "Your Website..."
+msgstr ""
+
+#: templates/blog/single/comments.php:75
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: templates/blog/single/comments.php:76
+msgid "Logged in as"
+msgstr ""
+
+#: templates/blog/single/comments.php:76
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/blog/single/comments.php:76
+msgid "Log out &raquo;"
+msgstr ""
+
+#: templates/blog/single/comments.php:79
+msgid "Your Comment..."
+msgstr ""
+
+#: templates/blog/single/comments.php:81
+msgid "Post Comment"
+msgstr ""
+
+#: templates/blog/single/comments.php:83
+msgid "Leave A Comment"
+msgstr ""
+
+#: templates/blog/single/comments.php:93
+msgid ""
+"This post is password protected. Please enter password to view comments."
+msgstr ""
+
+#: templates/blog/single/content-body.php:29
+msgid "Pages: "
+msgstr ""
+
+#: templates/blog/single/content-body.php:41
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/single/prevnext.php:3
+msgid "Previous Post"
+msgstr ""
+
+#: templates/blog/single/prevnext.php:4
+msgid "Next Post"
+msgstr ""
+
+#: templates/empty-search.php:1 templates/empty.php:2
+msgid "No posts found."
+msgstr ""
+
+#: templates/empty-search.php:11
+msgid "Enter your keyword"
+msgstr ""
+
+#: templates/header/header-v1.php:108 templates/header/header-v3.php:90
+#: templates/header/header-v4.php:115 templates/header/mobile-header.php:36
+msgid "Search..."
+msgstr ""
+
+#: templates/portfolio/grid3/content.php:20
+msgid "View"
+msgstr ""
+
+#: templates/portfolio/grid3/content.php:23
+msgid "Zoom"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:20
+#: templates/portfolio/single/content-half.php:22
+msgid "Project Details"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:37
+#: templates/portfolio/single/content-half.php:39
+msgid "Customer"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:46
+#: templates/portfolio/single/content-half.php:48
+msgid "Category"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:55
+#: templates/portfolio/single/content-half.php:57
+msgid "Skills"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:63
+#: templates/portfolio/single/content-half.php:65
+msgid "Demo"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:64
+#: templates/portfolio/single/content-half.php:66
+msgid "View Website"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:74
+#: templates/portfolio/single/content-half.php:76
+msgid "Date"
+msgstr ""
+
+#: templates/portfolio/single/content-full.php:83
+#: templates/portfolio/single/content-half.php:85
+msgid "Tags"
+msgstr ""
+
+#: templates/portfolio/single/prevnext.php:3
+msgid "Previous"
+msgstr ""
+
+#: templates/portfolio/single/prevnext.php:4
+msgid "Next"
+msgstr ""
+
+#: templates/portfolio/single/related.php:42
+msgid "Related Portfolio"
+msgstr ""
+
+#: templates/search.php:18 templates/search.php:42
+msgid "Search results for"
+msgstr ""
+
+#: widgets/accordion.php:16 widgets/useful-links.php:16
+msgid "Enter some a tag with links."
+msgstr ""
+
+#: widgets/accordion.php:19
+msgid "Semona: Accordion"
+msgstr ""
+
+#: widgets/accordion.php:82 widgets/accordion.php:98 widgets/accordion.php:123
+#: widgets/flickr.php:106 widgets/instagram.php:89 widgets/social-links.php:85
+#: widgets/useful-links.php:61
+msgid "Title"
+msgstr ""
+
+#: widgets/accordion.php:87
+msgid "Add Tab"
+msgstr ""
+
+#: widgets/accordion.php:92 widgets/accordion.php:117
+msgid "Accordion Tab"
+msgstr ""
+
+#: widgets/accordion.php:92 widgets/accordion.php:100
+msgid "New Tab"
+msgstr ""
+
+#: widgets/accordion.php:103 widgets/accordion.php:128
+msgid "Content"
+msgstr ""
+
+#: widgets/flickr.php:111
+msgid "Flickr ID"
+msgstr ""
+
+#: widgets/flickr.php:111
+msgid "Get your flickr ID"
+msgstr ""
+
+#: widgets/flickr.php:117
+msgid "Number of photos to show"
+msgstr ""
+
+#: widgets/flickr.php:122
+msgid ""
+"API key (Use default or get your own from <a href=\"http://www.flickr.com/"
+"services/apps/create/apply\">Flickr APP Garden</a>)"
+msgstr ""
+
+#: widgets/instagram.php:44
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: widgets/instagram.php:46
+msgid "Semona: Instagram"
+msgstr ""
+
+#: widgets/instagram.php:84
+msgid "Follow Us"
+msgstr ""
+
+#: widgets/instagram.php:90
+msgid "Username"
+msgstr ""
+
+#: widgets/instagram.php:91
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/instagram.php:114
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/instagram.php:117
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/instagram.php:124 widgets/instagram.php:135
+#: widgets/instagram.php:139
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/instagram.php:180
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/instagram.php:206
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/social-links.php:17
+msgid "Reddit"
+msgstr ""
+
+#: widgets/social-links.php:17
+msgid "Flickr"
+msgstr ""
+
+#: widgets/social-links.php:25
+msgid "Semona: Social Links"
+msgstr ""
+
+#: widgets/social-links.php:89
+msgid "Shape"
+msgstr ""
+
+#: widgets/social-links.php:99
+msgid "Align"
+msgstr ""
+
+#: widgets/social-links.php:104
+msgid "Center"
+msgstr ""
+
+#: widgets/useful-links.php:19
+msgid "Semona: Useful Links"
+msgstr ""
+
+#: widgets/useful-links.php:55
+msgid "Useful Links"
+msgstr ""
+
+#: widgets/useful-links.php:66
+msgid "Links"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76 woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/mini-cart.php:77
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Thumbnail"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47 woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:83
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:25
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:75
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+#: woocommerce/cart/shipping-calculator.php:92
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:97
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/content-product.php:72
+msgid "See Details"
+msgstr ""
+
+#: woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/grouped.php:92
+#: woocommerce/single-product/add-to-cart/simple.php:54
+#: woocommerce/single-product/add-to-cart/variable.php:85
+msgid "See Your Cart"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:65
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:99
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:47
+msgid "Shipping:"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""

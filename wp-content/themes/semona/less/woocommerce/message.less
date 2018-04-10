@@ -1,0 +1,33 @@
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error {
+	background-color: transparent;
+	border: 1px solid @border-color;
+	&:before {
+		color: @primary-color;
+	}
+	a.button {
+		background-color: @primary-color;
+		color: @white;
+		letter-spacing: 0;
+		font-size: 11px;
+		padding: 9px 20px 8px;
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	}
+}
+.woocommerce .woocommerce-info {
+	&:before {
+		color: @turquoise-color;
+	}
+	a.button {
+		background-color: @turquoise-color;
+	}
+}
+.woocommerce .woocommerce-error {
+	&:before {
+		color: @red-color;
+	}
+	a.button {
+		background-color: @red-color;
+	}
+}

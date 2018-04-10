@@ -1,0 +1,31 @@
+/**
+  Additional css for formatting the
+  centerline elements
+  **/
+.memoryline-connector {
+  position: relative;
+  z-index: 0;
+}
+
+.memoryline-canvas {
+  z-index: 1;
+}
+
+.memoryline-content {
+  min-height: 60px;
+  margin-top: 40px;
+  z-index: 2;
+}
+
+.memoryline-content[data-dot-direction="reverse"] {
+  float: right;
+}
+
+.memoryline-content[data-new-row="true"] {
+  clear: both !important;
+}
+
+.memoryline-simple .memoryline-content {
+  margin-bottom: 60px;
+  margin-top: 60px;
+}

@@ -1,0 +1,70 @@
+#buddypress {
+	select {
+		display: inline-block;
+		width: auto;
+	}
+	input[type=submit],
+	button {
+		letter-spacing: 0;
+		margin-top: -2px;
+	}
+	
+	// Tabs
+	div.item-list-tabs ul li {
+		a,
+		span {
+			color: @heading-color;
+		}
+		&.current {
+			a,
+			span {
+				color: @heading-color;
+			}
+		}
+		a:hover {
+			color: @primary-color;
+		}
+	}
+	
+	// Table
+	table {
+		border: 1px solid @border-color;
+		th, td {
+			padding: 8px;
+		}
+	}
+	table.forum thead tr,
+	table.messages-notices thead tr,
+	table.notifications thead tr,
+	table.notifications-settings thead tr,
+	table.profile-fields thead tr,
+	table.profile-settings thead tr,
+	table.wp-profile-fields thead tr {
+		background-color: @bg-color2;
+		color: @heading-color;
+	}
+	
+	// Notifications - actions area
+	.notifications-options-nav {
+		margin-top: 15px;
+	}
+	
+	// Profile heading
+	div.profile h4 {
+		margin-bottom: 8px;
+	}
+	
+	// ul margin-left clear
+	#profile-edit-form ul.button-nav,
+	.bp-avatar-nav ul.avatar-nav-items {
+		margin-left: 0;
+	}
+	
+	// Profile photo tab
+	.avatar-nav-items li a {
+		color: inherit;
+	}
+	.avatar-nav-items li.current a {
+		color: @heading-color;
+	}
+}

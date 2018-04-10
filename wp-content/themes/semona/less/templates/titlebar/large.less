@@ -1,0 +1,189 @@
+.sm-titlebar.large {
+	background-color: @heading-color;
+	color: @white;
+	font-family: @text-font2, sans-serif;
+	.lh-background-size( cover );
+	background-position: center top;
+	overflow: hidden;
+	.container {
+		height: 650px;
+		position: relative;
+		text-align: center;
+		.valign-middle-container();
+	}
+	.title-wrapper {
+		.valign-middle-nowidth();
+		max-width: 96%;
+		position: relative;
+		opacity: 0;
+		.lh-transition( opacity 0.3s );
+		.primary-underline {
+			position: absolute;
+			.hcenter;
+			bottom: -25px;
+			width: 118px;
+			height: 2px;
+			&:before,
+			&:after {
+				content: '';
+				position: absolute;
+				top: 0;
+				width: 45px;
+				height: 2px;
+				background-color: @primary-color;
+			}
+			&:before {
+				left: 0;
+			}
+			&:after {
+				right: 0;
+			}
+			.triangle-down {
+				position: absolute;
+				.hcenter;
+				top: 0;
+				width: 32px;
+				height: 20px;
+				overflow: hidden;
+				&:before {
+					content: '';
+					position: absolute;
+					left: 50%;
+					top: 0;
+					width: 20px;
+					height: 20px;
+					border: 2px solid @primary-color;
+					.lh-transform( translateX(-50%), translateY(-50%), rotate( 45deg ) );
+					.lh-transform-origin( center center );
+				}
+			}
+		}
+	}
+	.page-title,
+	.page-subtitle {
+		color: @white;
+	}
+	.page-title {
+		font-size: 60px;
+		font-weight: bold;
+		text-transform: uppercase;
+		margin-bottom: 10px;
+	}
+	.page-subtitle {
+		font-size: 36px;
+		font-weight: 300;
+		margin-bottom: 0;
+	}
+	.home-link {
+		display: block;
+		position: absolute;
+		left: 15px;
+		bottom: 25px;
+		font-style: italic;
+		i {
+			margin-right: 3px;
+		}
+	}
+	.breadcrumbs {
+		position: absolute;
+		right: 15px;
+		bottom: 25px;
+		font-style: italic;
+		li {
+			display: inline-block;
+			&:not(:last-child):after {
+				content: '/';
+				margin: 0 3px;
+			}
+		}
+	}
+	a {
+		color: @white;
+		&:hover {
+			color: @primary-color;
+		}
+	}
+}
+
+.sm-titlebar.large2 {
+	background-color: @heading-color; // to be overriden
+	color: @white;
+	font-family: @text-font2, sans-serif; // to be overriden
+	.lh-background-size( cover );
+	background-position: center top;
+	overflow: hidden;
+	.container {
+		height: 650px;
+		position: relative;
+		text-align: center;
+	}
+	.title-wrapper {
+		margin-top: 240px;
+		padding: 60px 40px;
+		position: relative;
+		//opacity: 0;
+		.lh-transition( opacity 0.3s );
+		&:before {
+			position: absolute;
+			content: '';
+			background-color: @primary-color; // to be overidden
+			.lh-opacity(.8);
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+		}
+	}
+	.page-title,
+	.page-subtitle {
+		position: relative;
+		color: @white;
+	}
+	.page-title {
+		font-size: 60px;
+		font-weight: bold;
+		text-transform: uppercase;
+		margin-bottom: 20px;
+	}
+	.page-subtitle {
+		font-size: 14px;
+		font-weight: 400;
+		font-style: italic;
+		font-family: 'Crete Round', sans-serif;
+		margin-bottom: 0;
+	}
+	.breadcrumbs-wrap {
+		position: absolute;
+		background-color: rgba(0, 0, 0, .4);
+		padding: 15px 20px;
+		.clearfix();
+		bottom: 30px;
+		left: 15px;
+		right: 15px;
+	}
+	.home-link {
+		display: block;
+		float: left;
+		font-style: italic;
+		i {
+			margin-right: 3px;
+		}
+	}
+	.breadcrumbs {
+		float: right;
+		font-style: italic;
+		li {
+			display: inline-block;
+			&:not(:last-child):after {
+				content: '/';
+				margin: 0 3px;
+			}
+		}
+	}
+	a {
+		color: @white;
+		&:hover {
+			color: @primary-color; // to be overidden
+		}
+	}
+}

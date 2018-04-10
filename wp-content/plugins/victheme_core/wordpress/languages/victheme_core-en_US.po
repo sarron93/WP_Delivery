@@ -1,0 +1,1663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VicTheme Core 1.0\n"
+"POT-Creation-Date: 2015-10-04 12:07-0700\n"
+"PO-Revision-Date: 2015-10-04 12:07-0700\n"
+"Last-Translator: \n"
+"Language-Team: VicTheme.com <support@victheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../api/check_dependencies.php:34
+msgid "Some message"
+msgstr ""
+
+#: ../api/page-skelleton.php:156
+msgid "Save"
+msgstr ""
+
+#: ../api/page-skelleton.php:163
+msgid "Reset"
+msgstr ""
+
+#: ../api/simple-form-model.php:94
+msgid "Process"
+msgstr ""
+
+#: ../api/widget-skelleton.php:106
+msgid "Hey I am a widget!"
+msgstr ""
+
+#: ../api/widget-skelleton.php:171 ../wordpress/widgets/contact.php:187
+#: ../wordpress/widgets/social.php:183
+msgid "Title"
+msgstr ""
+
+#: ../api/widget-skelleton.php:172
+msgid "some title anyone?"
+msgstr ""
+
+#: ../api/widget-skelleton.php:181
+msgid "Number only please"
+msgstr ""
+
+#: ../api/widget-skelleton.php:182
+msgid "dude, only number is allowed"
+msgstr ""
+
+#: ../api/widget-skelleton.php:192
+msgid "Custom Validation"
+msgstr ""
+
+#: ../api/widget-skelleton.php:193
+msgid "oh my god, custom validation?"
+msgstr ""
+
+#: ../api/widget-skelleton.php:198
+msgid "Only Alpha numeric allowed"
+msgstr ""
+
+#: ../vtcore/bootstrap/form/bscheckbox.php:117
+msgid "OFF"
+msgstr ""
+
+#: ../vtcore/bootstrap/form/bscheckbox.php:121
+msgid "ON"
+msgstr ""
+
+#: ../vtcore/bootstrap/form/bsglyphicon.php:87
+#: ../vtcore/bootstrap/form/bsicon.php:88
+#: ../vtcore/fontawesome/form/faicon.php:69
+msgid "No Icon"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faborder.php:50
+#: ../vtcore/fontawesome/form/faspin.php:50 ../wordpress/form/wpiconset.php:223
+#: ../wordpress/pages/config.php:84
+msgid "No"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faborder.php:51
+#: ../vtcore/fontawesome/form/faspin.php:51 ../wordpress/form/wpiconset.php:224
+#: ../wordpress/pages/config.php:83
+msgid "Yes"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faflip.php:50
+#: ../vtcore/fontawesome/form/faposition.php:52
+#: ../vtcore/fontawesome/form/farotate.php:52
+#: ../vtcore/fontawesome/form/fashape.php:50
+#: ../wordpress/form/wpanimation.php:170 ../wordpress/form/wpborder.php:90
+#: ../wordpress/form/wpfonts.php:210 ../wordpress/form/wpfotorama.php:305
+#: ../wordpress/form/wpfotorama.php:440 ../wordpress/form/wpfotorama.php:505
+#: ../wordpress/form/wpiconset.php:212 ../wordpress/form/wpiconset.php:289
+#: ../wordpress/form/wpiconset.php:301 ../wordpress/form/wpiconset.php:334
+#: ../wordpress/metabox/customtemplate.php:89
+msgid "None"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faflip.php:51 ../wordpress/form/wpiconset.php:213
+msgid "Horizontal"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faflip.php:52 ../wordpress/form/wpiconset.php:214
+msgid "Vertical"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faposition.php:53
+msgid "Pull Left"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faposition.php:54
+msgid "Pull Right"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faposition.php:55
+#: ../wordpress/form/wpiconset.php:292 ../wordpress/widgets/social.php:202
+msgid "Center"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/faposition.php:56
+msgid "Inline"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/farotate.php:53
+msgid "90"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/farotate.php:54
+msgid "180"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/farotate.php:55
+msgid "270"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fashape.php:51
+#: ../wordpress/form/wpgradient.php:193 ../wordpress/form/wpiconset.php:302
+msgid "Circle"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fashape.php:52
+#: ../wordpress/form/wpiconset.php:304
+msgid "Diamond"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:51
+#: ../wordpress/form/wpanimation.php:146 ../wordpress/form/wpfonts.php:240
+#: ../wordpress/form/wpfonts.php:267 ../wordpress/form/wpfonts.php:292
+msgid "Normal"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:52
+msgid "Large"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:53
+msgid "2x"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:54
+msgid "3x"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:55
+msgid "4x"
+msgstr ""
+
+#: ../vtcore/fontawesome/form/fasize.php:56
+msgid "5x"
+msgstr ""
+
+#: ../vtcore/form/base.php:80
+msgid "Form is required"
+msgstr ""
+
+#: ../wordpress/actions/add_meta_boxes.php:22
+msgid "Custom Templates"
+msgstr ""
+
+#: ../wordpress/actions/add_meta_boxes.php:49
+msgid "Custom Header"
+msgstr ""
+
+#: ../wordpress/ajax/processor/hs.php:47
+#: ../wordpress/ajax/processor/wpaccordion.php:58
+msgid "Error Processing Ajax request"
+msgstr ""
+
+#: ../wordpress/ajax/processor/wpicon.php:34 ../wordpress/form/wpicon.php:113
+#: ../wordpress/form/wpiconset.php:189 ../wordpress/form/wpsocial.php:100
+#: ../wordpress/form/wpsocial.php:153 ../wordpress/widgets/contact.php:257
+#: ../wordpress/widgets/social.php:265
+msgid "Icon"
+msgstr ""
+
+#: ../wordpress/ajax/router/admin.php:28 ../wordpress/ajax/router/anon.php:28
+msgid "Permission Denied."
+msgstr ""
+
+#: ../wordpress/customizer/element/font.php:26
+#: ../wordpress/form/wpbackground.php:278 ../wordpress/form/wpborder.php:89
+#: ../wordpress/form/wpfonts.php:235 ../wordpress/form/wpfonts.php:266
+#: ../wordpress/form/wpfonts.php:291 ../wordpress/form/wpiconset.php:333
+msgid "Not set"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:34
+msgid "Font Awesome"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:44
+msgid "Bootstrap Glyphicon"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:54
+msgid "Elegant Icon"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:64
+msgid "Foundation"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:74
+msgid "Typicons"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:84
+msgid "Open Iconic"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:94
+msgid "Entypo"
+msgstr ""
+
+#: ../wordpress/data/icons/library.php:114 ../wordpress/form/wpterms.php:76
+msgid "-- Select --"
+msgstr ""
+
+#: ../wordpress/form/query/authors.php:74
+msgid "Author In"
+msgstr ""
+
+#: ../wordpress/form/query/authors.php:75
+msgid ""
+"Select one or multiple author, only posts made by these selected author will "
+"be retrieved by the query."
+msgstr ""
+
+#: ../wordpress/form/query/authors.php:87
+msgid "Author Not In"
+msgstr ""
+
+#: ../wordpress/form/query/authors.php:88
+msgid ""
+"Select one or multiple author, posts made by these selected author will not "
+"be retrieved by the query."
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:62 ../wordpress/form/query/taxonomy.php:60
+msgid "Relation"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:63
+msgid "Database relation between each meta entry."
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:67 ../wordpress/form/query/taxonomy.php:65
+msgid "And"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:68 ../wordpress/form/query/taxonomy.php:66
+msgid "Or"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:81 ../wordpress/form/query/taxonomy.php:81
+msgid "Data"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:93 ../wordpress/form/query/taxonomy.php:93
+msgid "Add Entry"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:146
+msgid "Meta Key"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:147
+msgid "Valid post meta key name."
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:160
+msgid "Meta Value"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:161
+msgid "Valid post meta value."
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:177
+msgid "Field Type"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:178
+msgid "Meta value data type."
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:181
+msgid "Numeric"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:182
+msgid "Binary"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:183
+msgid "Char"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:184
+msgid "Date"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:185
+msgid "DateTime"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:186
+msgid "Decimal"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:187
+msgid "Signed"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:188
+msgid "Time"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:189
+msgid "Unsigned"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:202
+msgid "Comparison"
+msgstr ""
+
+#: ../wordpress/form/query/meta.php:203
+msgid "Meta value data comparison mode."
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:64
+msgid "Order Direction"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:65
+msgid "Set the queried data ordering direction."
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:69
+msgid "Descending"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:70
+msgid "Ascending"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:74
+msgid "Order By"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:75
+msgid "Define how to order the queried data value."
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:79
+msgid "No Order"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:80
+msgid "Order by post id"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:81
+msgid "Order by author"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:82
+msgid "Order by title"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:83
+msgid "Order by post name (post slug)"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:84
+msgid "Order by date"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:85
+msgid "Order by last modified date"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:86
+msgid "Order by post/page parent id"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:87
+msgid "Random order"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:88
+msgid "Order by number of comments"
+msgstr ""
+
+#: ../wordpress/form/query/orders.php:89
+msgid "Order by Page Order"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:61
+msgid "Post Per Page"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:62
+msgid "Number of post to retrieve in a single query"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:67
+msgid "No Paging"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:68
+msgid "When enabled, post per page options will be ignored."
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:74
+msgid "Offset"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:75
+msgid "Set how many post should the query skips before starting the query."
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:80
+msgid "Page"
+msgstr ""
+
+#: ../wordpress/form/query/pagination.php:81
+msgid ""
+"Input numerical entry for jumping the query to x page, the number of post "
+"skipped will be related to the post per page options"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:73
+msgid "Post Type"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:74
+msgid "Select one or multiple post type for filtering the query results"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:86
+msgid "Post Status"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:87
+msgid "Select one or multiple post status for filtering the query results"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:97
+msgid "A Published post or page"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:98
+msgid "Post is pending review"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:99
+msgid "A post in draft status"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:100
+msgid "A post to publish in the future"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:101
+msgid "Not Visible to users who are not logged in"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:102
+msgid "A Revision"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:103
+msgid "Post is in trashbin"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:104
+msgid ""
+"Retrieves any status except those from post types with exclude_from_search "
+"set to true"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:108
+msgid "Post Parent In"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:109
+msgid ""
+"Select one or multiple post as the parent value for filtering the query "
+"results"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:121
+msgid "Post Parent Not In"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:122
+msgid ""
+"Select one or multiple post as the not included parent value for filtering "
+"the query results"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:134
+msgid "Post In"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:135
+msgid "Select one or multiple post to include in the result"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:147
+msgid "Post Not In"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:148
+msgid "Select one or multiple post to exclude in the result"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:160
+msgid "Ignore Sticky Post"
+msgstr ""
+
+#: ../wordpress/form/query/posts.php:161
+msgid "Ignore or honor the post that is marked as a sticky post"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:61
+msgid "Database relation between each taxonomy terms entry."
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:145
+msgid "Terms"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:146
+msgid "Taxonomy term name, id or slug."
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:159 ../wordpress/form/wpquery.php:50
+msgid "Taxonomy"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:160
+msgid "The terms taxonomy name."
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:177
+msgid "Field"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:178
+msgid "Term data type."
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:181
+msgid "Term Id"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:182
+#: ../wordpress/form/wpanimation.php:78
+msgid "Name"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:183
+msgid "Slug"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:196
+msgid "Compare"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:197
+msgid "Term comparison mode."
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:217
+msgid "Include Children"
+msgstr ""
+
+#: ../wordpress/form/query/taxonomy.php:218
+msgid "Include the taxonomy term children if available."
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:94
+msgid "Delay"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:110
+msgid "Duration"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:126
+msgid "Iteration Count"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:142 ../wordpress/form/wpfotorama.php:591
+#: ../wordpress/form/wpgradient.php:155
+msgid "Direction"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:147
+msgid "Reverse"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:148
+msgid "Alternate"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:149
+msgid "Alternate Reverse"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:150 ../wordpress/form/wpanimation.php:174
+#: ../wordpress/form/wpanimation.php:196 ../wordpress/form/wpanimation.php:221
+#: ../wordpress/form/wpbackground.php:298 ../wordpress/form/wpfonts.php:294
+msgid "Initial"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:151 ../wordpress/form/wpanimation.php:175
+#: ../wordpress/form/wpanimation.php:197 ../wordpress/form/wpanimation.php:222
+#: ../wordpress/form/wpbackground.php:302 ../wordpress/form/wpborder.php:91
+#: ../wordpress/form/wpfonts.php:236 ../wordpress/form/wpfonts.php:270
+#: ../wordpress/form/wpfonts.php:295 ../wordpress/form/wpiconset.php:335
+msgid "Inherit"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:166
+msgid "Fill Mode"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:171
+msgid "Forwards"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:172
+msgid "Backwards"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:173
+msgid "Both"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:190
+msgid "Play State"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:194
+msgid "Paused"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:195
+msgid "Running"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:212
+msgid "Timing"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:216 ../wordpress/form/wpgradient.php:127
+msgid "Linear"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:217
+msgid "Ease"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:218
+msgid "Ease In"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:219
+msgid "Ease Out"
+msgstr ""
+
+#: ../wordpress/form/wpanimation.php:220
+msgid "Ease In Out"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:122 ../wordpress/form/wpiconset.php:257
+msgid "Background Color"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:143
+msgid "Background Masking"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:164
+msgid "Parallax Mode"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:167
+msgid "Disable Parallax"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:168
+msgid "Vertical Parallax"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:169
+msgid "Horizontal Parallax"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:170
+msgid "Diagonal Parallax"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:200
+msgid "Image"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:201 ../wordpress/form/wpiconset.php:236
+msgid "Settings"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:207
+msgid "Add Background"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:215 ../wordpress/form/wpfotorama.php:630
+msgid "Animation"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:274 ../wordpress/form/wpgradient.php:141
+msgid "Repeat"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:279
+msgid "No Repeat"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:280
+msgid "Repeat All"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:281
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:282
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:294
+msgid "Attachment"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:299
+msgid "Scroll"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:300 ../wordpress/form/wpvideo.php:163
+msgid "Fixed"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:301
+msgid "Local"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:317 ../wordpress/form/wpgradient.php:166
+#: ../wordpress/form/wpiconset.php:284 ../wordpress/form/wpvideo.php:158
+msgid "Position"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:330 ../wordpress/form/wpfonts.php:191
+#: ../wordpress/form/wpgradient.php:206 ../wordpress/form/wpiconset.php:201
+msgid "Size"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:344
+msgid "Animation Frame"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:355
+msgid "From"
+msgstr ""
+
+#: ../wordpress/form/wpbackground.php:368
+msgid "To"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:76 ../wordpress/form/wpfotorama.php:156
+#: ../wordpress/form/wpiconset.php:322 ../wordpress/form/wpimagesize.php:69
+#: ../wordpress/form/wpvideo.php:190
+msgid "Width"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:78 ../wordpress/form/wpiconset.php:324
+msgid "Input the icon border size width in pixel. eg 1px"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:83 ../wordpress/form/wpfonts.php:262
+#: ../wordpress/form/wpiconset.php:328
+msgid "Style"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:84 ../wordpress/form/wpiconset.php:329
+msgid "Select the border style"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:92 ../wordpress/form/wpiconset.php:336
+msgid "Solid"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:93 ../wordpress/form/wpiconset.php:337
+msgid "Dotted"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:94 ../wordpress/form/wpiconset.php:338
+msgid "Dashed"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:95 ../wordpress/form/wpiconset.php:339
+msgid "Double"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:96 ../wordpress/form/wpiconset.php:340
+msgid "Ridge"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:97 ../wordpress/form/wpiconset.php:341
+msgid "Inset"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:98 ../wordpress/form/wpiconset.php:342
+msgid "Outset"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:99 ../wordpress/form/wpiconset.php:343
+msgid "Groove"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:103 ../wordpress/form/wpfonts.php:162
+#: ../wordpress/form/wpgradient.php:242 ../wordpress/form/wpiconset.php:347
+msgid "Color"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:105 ../wordpress/form/wpiconset.php:349
+msgid "Choose the border color"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:110 ../wordpress/form/wpiconset.php:356
+msgid "Radius"
+msgstr ""
+
+#: ../wordpress/form/wpborder.php:112 ../wordpress/form/wpiconset.php:358
+msgid ""
+"Set the border radius in the format of top left, top right, bottom right and "
+"bottom left eg. 1px 2px 3px 4px"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:144
+msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:209 ../wordpress/form/wpicon.php:87
+msgid "Family"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:231
+msgid "Weight"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:237
+msgid "Thin"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:238
+msgid "Extra light"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:239
+msgid "Light"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:241
+msgid "Medium"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:242
+msgid "Demi bold"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:243
+msgid "Bold"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:244
+msgid "Heavy"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:245
+msgid "Black"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:268
+msgid "Oblique"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:269
+msgid "Italic"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:287
+msgid "Variant"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:293
+msgid "Small Caps"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:315 ../wordpress/form/wpiconset.php:266
+msgid "Line Height"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:333
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../wordpress/form/wpfonts.php:351
+msgid "Shadow"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:139
+msgid "Min Width"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:140
+msgid "Stage container minimum width in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:144 ../wordpress/form/wpfotorama.php:161
+#: ../wordpress/form/wpfotorama.php:178 ../wordpress/form/wpfotorama.php:198
+#: ../wordpress/form/wpfotorama.php:215 ../wordpress/form/wpfotorama.php:232
+msgid "Invalid size."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:157
+msgid "Stage container width in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:173
+msgid "Max Width"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:174
+msgid "Stage container maximum width in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:193
+msgid "Min Height"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:194
+msgid "Stage container minimum height in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:210 ../wordpress/form/wpimagesize.php:86
+#: ../wordpress/form/wpvideo.php:196
+msgid "Height"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:211
+msgid "Stage container height in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:227
+msgid "Max Height"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:228
+msgid "Stage container maximum height in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:245
+msgid "Dimension"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:256
+msgid "Captions"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:257
+msgid "Captions visibility."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:271
+msgid "Shadows"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:272
+msgid "Enables shadows."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:287 ../wordpress/form/wpfotorama.php:291
+msgid "Allow Full Screen"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:288
+msgid "Allows fullscreen"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:290
+msgid "No Full Screen"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:292
+msgid "Native"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:299
+msgid "Fit"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:300
+msgid "How to fit an image into a fotorama"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:302 ../wordpress/form/wpfotorama.php:502
+#: ../wordpress/form/wpgradient.php:217
+msgid "Contain"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:303 ../wordpress/form/wpfotorama.php:503
+#: ../wordpress/form/wpgradient.php:218
+msgid "Cover"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:304 ../wordpress/form/wpfotorama.php:504
+msgid "Scale Down"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:311
+msgid "Ratio"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:312
+msgid "Width divided by height. Recommended if you’re using percentage width."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:317 ../wordpress/form/wpiconset.php:278
+msgid "Margin"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:318
+msgid "Horizontal margins for frames in pixels."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:323 ../wordpress/form/wpfotorama.php:465
+#: ../wordpress/form/wpfotorama.php:475 ../wordpress/form/wpfotorama.php:485
+#: ../wordpress/form/wpfotorama.php:495 ../wordpress/form/wpfotorama.php:607
+msgid "Only numeric character allowed"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:327
+msgid "Glimpse"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:328
+msgid "Glimpse size of nearby frames in pixels or percents."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:332
+msgid "Invalid size"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:337
+msgid "Media"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:347
+msgid "Keyboard"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:348
+msgid "Enables keyboard navigation."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:363
+msgid "Click"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:364
+msgid "Moving between frames by clicking."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:378
+msgid "Swipe"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:379
+msgid "Moving between frames by swiping."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:393
+msgid "Trackpad"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:394
+msgid "Enables trackpad support and horizontal mouse wheel as well."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:409
+msgid "Nav"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:410
+msgid "Navigation style."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:412
+msgid "iPhone Style Dots"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:413
+msgid "Thumbnails"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:414
+msgid "Nothing"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:420
+msgid "Nav Width"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:421
+msgid "Navigation width."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:426
+msgid "Arrows"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:427
+msgid "Turns on navigation arrows over the frames."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:429
+msgid "Enable"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:430 ../wordpress/form/wpgradient.php:126
+msgid "Disable"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:431
+msgid "Always"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:437
+msgid "Nav Position"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:438
+msgid "Navigation container position relative to stage."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:441
+msgid "Top"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:442
+msgid "Bottom"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:450
+msgid "Navigation"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:459
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:460
+msgid "Thumbnail width in pixels."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:469
+msgid "Thumbnail Height"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:470
+msgid "Thumbnail height in pixels."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:479
+msgid "Thumbnail Margin"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:480
+msgid "Size of thumbnail margins."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:489
+msgid "Thumbnail Border Width"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:490
+msgid "Border width of the active thumbnail."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:499
+msgid "Thumb Fit"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:500
+msgid "How to fit thumbnail into its frame"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:512
+msgid "Thumbnail"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:523 ../wordpress/form/wpvideo.php:176
+msgid "Loop"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:524
+msgid "Enables loop."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:538
+msgid "Stop Autoplay on touch"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:539
+msgid "Stops slideshow at any user action with the fotorama."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:553
+msgid "Shuffle"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:554
+msgid "Shuffles frames at launch."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:569
+msgid "Transition"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:570
+msgid "Defines what transition to use"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:572 ../wordpress/form/wpfotorama.php:583
+msgid "Slide"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:573 ../wordpress/form/wpfotorama.php:584
+msgid "Crossfade"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:574 ../wordpress/form/wpfotorama.php:585
+msgid "Dissolve"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:580
+msgid "Click Transition"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:581
+msgid "Defines alternative transition to use on click."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:592
+msgid "Sets the frames direction: ltr or rtl."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:594
+msgid "Left to right"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:595
+msgid "Right to left"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:601
+msgid "Transition Duration"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:602
+msgid "Animation length in milliseconds."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:611
+msgid "Start Index"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:612
+msgid ""
+"Index or id of the frame that will be shown upon initialization of the "
+"fotorama."
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:616 ../wordpress/form/wpfotorama.php:625
+msgid "Only alphanumeric character allowed"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:620 ../wordpress/form/wpvideo.php:167
+msgid "Autoplay"
+msgstr ""
+
+#: ../wordpress/form/wpfotorama.php:621
+msgid ""
+"Enables slideshow. Turn it on with true or any interval in milliseconds."
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:115
+msgid "Mode"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:128
+msgid "Radial"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:156
+msgid "left | right | top | bottom | 45deg"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:172
+msgid "center | top | left | right | bottom | (100px 100px)"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:186 ../wordpress/form/wpiconset.php:296
+msgid "Shape"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:194
+msgid "Ellipse"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:213
+msgid "Farthest Corner"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:214
+msgid "Farthest Side"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:215
+msgid "Closest Corner"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:216
+msgid "Closest Side"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:241
+msgid "Stop"
+msgstr ""
+
+#: ../wordpress/form/wpgradient.php:248
+msgid "Add Color"
+msgstr ""
+
+#: ../wordpress/form/wpicon.php:98
+msgid "Retrieving Icons"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:204
+msgid "Set the icon size using pixel or em, eg. 12px or 12em"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:207
+msgid "Flip"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:210
+msgid "Flip the icon using css3 transform method."
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:218
+msgid "Spin"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:221
+msgid "Spin the icon using css3 spin effect"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:228
+msgid "Rotate"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:232
+msgid ""
+"Rotate the icon using css3 transform rotate, enter the value in the degree"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:248
+msgid "Icon Color"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:251
+msgid "Choose the icon color"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:260
+msgid "Choose the background color for the icon wrapper"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:269
+msgid "Adjust the icon line height"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:272
+msgid "Padding"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:275
+msgid "Adjust the icon inner padding, eg. 10px 10px 10px 10px"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:281
+msgid "Adjust the icon margin, eg. 10px 10px 10px 10px"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:287
+msgid "Select the position of the icon relative to the icon wrapper."
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:290 ../wordpress/widgets/social.php:200
+msgid "Left"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:291 ../wordpress/widgets/social.php:201
+msgid "Right"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:299
+msgid "Choose the shape of this icon wrapper"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:303
+msgid "Rounded"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:309
+msgid "Styling"
+msgstr ""
+
+#: ../wordpress/form/wpiconset.php:363
+msgid "Border"
+msgstr ""
+
+#: ../wordpress/form/wpimagesize.php:82 ../wordpress/form/wpimagesize.php:99
+msgid "Only numerical value allowed"
+msgstr ""
+
+#: ../wordpress/form/wpimagesize.php:103
+msgid "Crop"
+msgstr ""
+
+#: ../wordpress/form/wpimagesize.php:107
+msgid "Crop Image"
+msgstr ""
+
+#: ../wordpress/form/wpimagesize.php:108
+msgid "Don't Crop Image"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:18
+msgid "Posts"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:26
+msgid "Authors"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:34
+msgid "Ordering"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:42
+msgid "Pagination"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:58
+msgid "Meta"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:70
+msgid "Parameters"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:72
+msgid "Unique loop ID"
+msgstr ""
+
+#: ../wordpress/form/wpquery.php:73
+msgid "This ID can be used for other element to interacts with this query"
+msgstr ""
+
+#: ../wordpress/form/wpsocial.php:101
+msgid "Link"
+msgstr ""
+
+#: ../wordpress/form/wpsocial.php:110 ../wordpress/widgets/contact.php:217
+#: ../wordpress/widgets/social.php:224
+msgid "Add New Entry"
+msgstr ""
+
+#: ../wordpress/form/wpsocial.php:160 ../wordpress/widgets/social.php:270
+msgid "Link URL"
+msgstr ""
+
+#: ../wordpress/form/wptermshs.php:147
+msgid "Retrieving Terms"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:103
+msgid "Video MP4"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:113
+msgid "Video WEBM"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:123
+msgid "Video OGV"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:133
+msgid "Poster Image"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:162
+msgid "Absolute"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:171 ../wordpress/form/wpvideo.php:185
+msgid "True"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:172 ../wordpress/form/wpvideo.php:186
+msgid "False"
+msgstr ""
+
+#: ../wordpress/form/wpvideo.php:181
+msgid "Scale"
+msgstr ""
+
+#: ../wordpress/metabox/customheader.php:41
+msgid "Heading Image"
+msgstr ""
+
+#: ../wordpress/metabox/customheader.php:45
+msgid "Select File"
+msgstr ""
+
+#: ../wordpress/metabox/customheader.php:46
+msgid "Select Image"
+msgstr ""
+
+#: ../wordpress/metabox/customheader.php:50
+msgid "Heading"
+msgstr ""
+
+#: ../wordpress/metabox/customheader.php:55
+#: ../wordpress/widgets/contact.php:193 ../wordpress/widgets/social.php:189
+msgid "Description"
+msgstr ""
+
+#: ../wordpress/metabox/customtemplate.php:44
+msgid "Use custom template for this post entry."
+msgstr ""
+
+#: ../wordpress/models/router.php:69
+msgid "Invalid request"
+msgstr ""
+
+#: ../wordpress/pages/config.php:15
+msgid "VicTheme Core - Configuration"
+msgstr ""
+
+#: ../wordpress/pages/config.php:35
+msgid "All Core related cached deleted"
+msgstr ""
+
+#: ../wordpress/pages/config.php:69
+msgid "Performance"
+msgstr ""
+
+#: ../wordpress/pages/config.php:73
+msgid ""
+"Caching core will be performed automatically, you can force to clear the "
+"cache by clicking the clear cache button"
+msgstr ""
+
+#: ../wordpress/pages/config.php:78
+msgid "Clear Cache"
+msgstr ""
+
+#: ../wordpress/pages/config.php:82
+msgid "Are you sure?"
+msgstr ""
+
+#: ../wordpress/utility.php:266 ../wordpress/utility.php:328
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: ../wordpress/utility.php:290
+msgid "Empty filename"
+msgstr ""
+
+#: ../wordpress/utility.php:297
+msgid "Invalid file type"
+msgstr ""
+
+#: ../wordpress/utility.php:337
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: ../wordpress/widgets/contact.php:208 ../wordpress/widgets/social.php:215
+msgid "Content"
+msgstr ""
+
+#: ../wordpress/widgets/contact.php:264
+msgid "Label"
+msgstr ""
+
+#: ../wordpress/widgets/contact.php:277
+msgid "Separator"
+msgstr ""
+
+#: ../wordpress/widgets/contact.php:291
+msgid "Text"
+msgstr ""
+
+#: ../wordpress/widgets/social.php:195
+msgid "Alignment"
+msgstr ""

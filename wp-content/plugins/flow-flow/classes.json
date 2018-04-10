@@ -1,0 +1,26 @@
+{
+    "migrations" : {
+        "FFMigration_2_0"           : "includes/db/migrations/FFMigration_2_0.php",
+        "FFMigration_2_1"           : "includes/db/migrations/FFMigration_2_1.php",
+        "FFMigration_2_2"           : "includes/db/migrations/FFMigration_2_2.php",
+        "FFMigration_2_3"           : "includes/db/migrations/FFMigration_2_3.php",
+        "FFMigration_2_4"           : "includes/db/migrations/FFMigration_2_4.php",
+        "FFMigration_2_5"           : "includes/db/migrations/FFMigration_2_5.php",
+        "FFMigration_2_6"           : "includes/db/migrations/FFMigration_2_6.php",
+        "FFMigration_2_7"           : "includes/db/migrations/FFMigration_2_7.php",
+        "FFMigration_2_8"           : "includes/db/migrations/FFMigration_2_8.php",
+        "FFMigration_2_9"           : "includes/db/migrations/FFMigration_2_9.php",
+        "FFMigration_2_10"          : "includes/db/migrations/FFMigration_2_10.php",
+        "FFMigration_2_11"          : "includes/db/migrations/FFMigration_2_11.php",
+        "FFMigration_2_12"          : "includes/db/migrations/FFMigration_2_12.php",
+        "FFMigration_2_13"          : "includes/db/migrations/FFMigration_2_13.php"
+    },
+    "views" : {
+        "admin"                     : "views/admin.php",
+        "public"                    : "views/public.php",
+        "general"                   : "views/general.php",
+        "auth"                      : "views/auth.php",
+        "backup"                    : "views/backup.php",
+        "moderation"                : "views/moderation.php"
+    }
+}

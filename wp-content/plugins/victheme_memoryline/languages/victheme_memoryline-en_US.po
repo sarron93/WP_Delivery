@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VicTheme VisualCandy 1.0\n"
+"POT-Creation-Date: 2015-10-11 19:35+0800\n"
+"PO-Revision-Date: 2015-10-11 19:35+0800\n"
+"Last-Translator: \n"
+"Language-Team: VicTheme.com <support@victheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: filters/vc_load_default_templates.php:15
+msgid "* MemoryLine Elements"
+msgstr ""
+
+#: victheme_memoryline.php:24
+msgid ""
+"VicTheme Memory Line depends on VicTheme Core Plugin which is not activated "
+"or missing, Please enable it first before VicTheme Memory Line can work "
+"properly."
+msgstr ""
+
+#: victheme_memoryline.php:27
+msgid "VicTheme Memory Line depends on VicTheme Core Plugin API version "
+msgstr ""
+
+#: victheme_memoryline.php:49
+msgid ""
+"MemoryLine requires Visual Composer Plugin enabled before it can function "
+"properly."
+msgstr ""
+
+#: victheme_memoryline.php:65
+msgid ""
+"MemoryLine requires Visual Composer Plugin version 4.7.0 and above before it "
+"can function properly.\n"
+"             For older visual composer please use MemoryLine version 1.4.x."
+msgstr ""
+
+#: visualcomposer/memoryline.php:56
+msgid "Advanced MemoryLine"
+msgstr ""
+
+#: visualcomposer/memoryline.php:57
+msgid "Element Wrapper"
+msgstr ""
+
+#: visualcomposer/memoryline.php:60 visualcomposer/memorylineinner.php:52
+#: visualcomposer/memorylinesimple.php:35
+msgid "MemoryLine"
+msgstr ""
+
+#: visualcomposer/memoryline.php:72 visualcomposer/memorylineinner.php:281
+#: visualcomposer/memorylinesimple.php:189
+msgid "CSS ID"
+msgstr ""
+
+#: visualcomposer/memoryline.php:79 visualcomposer/memorylineinner.php:289
+#: visualcomposer/memorylinesimple.php:197
+msgid "CSS Class"
+msgstr ""
+
+#: visualcomposer/memoryline.php:86
+msgid "Line Offset X"
+msgstr ""
+
+#: visualcomposer/memoryline.php:90 visualcomposer/memoryline.php:100
+#: visualcomposer/memoryline.php:110 visualcomposer/memoryline.php:124
+#: visualcomposer/memoryline.php:134 visualcomposer/memoryline.php:144
+#: visualcomposer/memoryline.php:154 visualcomposer/memorylineinner.php:105
+#: visualcomposer/memorylineinner.php:118
+#: visualcomposer/memorylineinner.php:128
+#: visualcomposer/memorylineinner.php:138
+#: visualcomposer/memorylineinner.php:148
+#: visualcomposer/memorylineinner.php:158
+#: visualcomposer/memorylineinner.php:173
+#: visualcomposer/memorylineinner.php:183
+#: visualcomposer/memorylineinner.php:193
+#: visualcomposer/memorylinesimple.php:117
+#: visualcomposer/memorylinesimple.php:127
+#: visualcomposer/memorylinesimple.php:138
+#: visualcomposer/memorylinesimple.php:152
+#: visualcomposer/memorylinesimple.php:162
+#: visualcomposer/memorylinesimple.php:173
+#: visualcomposer/memorylinesimple.php:183
+msgid "Points"
+msgstr ""
+
+#: visualcomposer/memoryline.php:96
+msgid "Line Offset Y"
+msgstr ""
+
+#: visualcomposer/memoryline.php:106 visualcomposer/memorylineinner.php:154
+#: visualcomposer/memorylinesimple.php:134
+msgid "Line Width"
+msgstr ""
+
+#: visualcomposer/memoryline.php:116 visualcomposer/memorylineinner.php:164
+#: visualcomposer/memorylinesimple.php:144
+msgid "Line Type"
+msgstr ""
+
+#: visualcomposer/memoryline.php:120 visualcomposer/memorylineinner.php:169
+#: visualcomposer/memorylinesimple.php:148
+msgid "Round"
+msgstr ""
+
+#: visualcomposer/memoryline.php:121 visualcomposer/memorylineinner.php:170
+#: visualcomposer/memorylinesimple.php:149
+msgid "Square"
+msgstr ""
+
+#: visualcomposer/memoryline.php:122 visualcomposer/memorylineinner.php:171
+#: visualcomposer/memorylinesimple.php:150
+msgid "Butt"
+msgstr ""
+
+#: visualcomposer/memoryline.php:130 visualcomposer/memorylineinner.php:124
+#: visualcomposer/memorylinesimple.php:158
+msgid "Dot Radius"
+msgstr ""
+
+#: visualcomposer/memoryline.php:140 visualcomposer/memorylineinner.php:179
+#: visualcomposer/memorylinesimple.php:169
+msgid "Line color"
+msgstr ""
+
+#: visualcomposer/memoryline.php:150 visualcomposer/memorylineinner.php:189
+#: visualcomposer/memorylinesimple.php:179
+msgid "Dot color"
+msgstr ""
+
+#: visualcomposer/memoryline.php:161 visualcomposer/memorylineinner.php:297
+#: visualcomposer/memorylinesimple.php:205
+msgid "Css"
+msgstr ""
+
+#: visualcomposer/memoryline.php:163 visualcomposer/memorylineinner.php:299
+#: visualcomposer/memorylinesimple.php:207
+msgid "Design options"
+msgstr ""
+
+#: visualcomposer/memoryline.php:168 visualcomposer/memorylineinner.php:304
+#: visualcomposer/memorylinesimple.php:212
+msgid "CSS Animation"
+msgstr ""
+
+#: visualcomposer/memoryline.php:172 visualcomposer/memorylineinner.php:308
+#: visualcomposer/memorylinesimple.php:216
+msgid "No"
+msgstr ""
+
+#: visualcomposer/memoryline.php:173 visualcomposer/memorylineinner.php:309
+#: visualcomposer/memorylinesimple.php:217
+msgid "Top to bottom"
+msgstr ""
+
+#: visualcomposer/memoryline.php:174 visualcomposer/memorylineinner.php:310
+#: visualcomposer/memorylinesimple.php:218
+msgid "Bottom to top"
+msgstr ""
+
+#: visualcomposer/memoryline.php:175 visualcomposer/memorylineinner.php:311
+#: visualcomposer/memorylinesimple.php:219
+msgid "Left to right"
+msgstr ""
+
+#: visualcomposer/memoryline.php:176 visualcomposer/memorylineinner.php:312
+#: visualcomposer/memorylinesimple.php:220
+msgid "Right to left"
+msgstr ""
+
+#: visualcomposer/memoryline.php:177 visualcomposer/memorylineinner.php:313
+#: visualcomposer/memorylinesimple.php:221
+msgid "Appear from center"
+msgstr ""
+
+#: visualcomposer/memoryline.php:179 visualcomposer/memorylineinner.php:315
+#: visualcomposer/memorylinesimple.php:223
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: visualcomposer/memoryline.php:199
+msgid "Grids"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:48
+msgid "MemoryLine Content"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:49
+msgid "The content element for memoryline"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:63 visualcomposer/memorylinesimple.php:99
+msgid "Title Color"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:69
+#: visualcomposer/memorylinesimple.php:106
+msgid "Text Color"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:76 visualcomposer/memorylinesimple.php:84
+msgid "Title"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:84
+msgid "Extra Title CSS Class"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:91
+msgid "Extra Content CSS Class"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:98
+msgid "Mark As New Row"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:102
+msgid "Not a new row"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:103
+msgid "New Row"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:111
+msgid "Dot Direction"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:115
+msgid "Left"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:116
+msgid "Right"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:134
+#: visualcomposer/memorylinesimple.php:113
+msgid "Dot Offset X"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:144
+#: visualcomposer/memorylinesimple.php:123
+msgid "Dot Offset Y"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:168
+msgid "Inherit"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:218
+msgid "Grid options"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:239
+msgid "Title Grids"
+msgstr ""
+
+#: visualcomposer/memorylineinner.php:261
+msgid "Element Grids"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:31
+msgid "Simple MemoryLine"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:32
+msgid "Create a simple memory line"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:40
+msgid "Columns"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:44
+msgid "Default"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:45
+msgid "One Column"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:46
+msgid "Two Column"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:47
+msgid "Three Column"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:48
+msgid "Four Column"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:49
+msgid "Five Column"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:56
+msgid "Lines"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:58
+msgid "Enter values for memory line."
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:61
+msgid "2012"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:62
+msgid "Starting this business"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:67
+msgid "2013"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:68
+msgid "Major Breakthrough"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:73
+msgid "2014"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:74
+msgid "New version launched"
+msgstr ""
+
+#: visualcomposer/memorylinesimple.php:91
+msgid "Content"
+msgstr ""
+
+#~ msgid "Set the default map longitude coordinate."
+#~ msgstr "Set the default map longitude coordinate."

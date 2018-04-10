@@ -1,0 +1,30 @@
+#wp-calendar {
+	width: 100%;
+	text-align: center;
+}
+.widget_calendar {
+	caption {
+		margin-bottom: 15px;
+		line-height: 1;
+	}
+	thead {
+		font-weight: bold;
+	}
+}
+
+footer {
+	.widget_calendar {
+		#today {
+			color: @white;
+		}
+	}
+}
+
+header,
+.content-area {
+	.widget_calendar {
+		#today {
+			color: @primary-color;
+		}
+	}
+}

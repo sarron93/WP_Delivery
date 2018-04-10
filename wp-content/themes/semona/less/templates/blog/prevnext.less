@@ -1,0 +1,27 @@
+.sm-post-prevnext-link {
+	margin-top: 60px;
+	border-top: 1px solid @border-color;
+	padding-top: 30px;
+	a {
+		font-size: 11px;
+		color: @heading-light-color;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-weight: @post-heading-font-weight;
+		position: relative;
+	}
+	a:first-child {
+		float: left;
+		.arrow-left( @heading-light-color, 8px );
+		&:hover {
+			.arrow-color( @secondary-color );
+		}
+	}
+	a:not(:first-child):last-child {
+		float: right;
+		.arrow-right( @heading-light-color, 8px );
+		&:hover {
+			.arrow-color( @secondary-color );
+		}
+	}
+}

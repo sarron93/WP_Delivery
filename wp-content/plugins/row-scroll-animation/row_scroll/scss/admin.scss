@@ -1,0 +1,11 @@
+.wpb_row_scroll
+{
+	&.wpb_content_element {
+		.wpb_element_wrapper {
+			min-height: 0 !important;
+		}
+		.vc_element-icon {
+			width: 20px;
+		}
+	}
+}

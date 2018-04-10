@@ -1,0 +1,193 @@
+@white:		#ffffff;
+
+@blue-color:				#4396e6;
+@orange-color:				#f56048;
+@turquoise-color:			#15c0cc;
+@purple-color:				#e43dce;
+@pink-color:				#e9138c;
+@green-color:				#97c200;
+@red-color:					#f7383a;
+@grey-color:				#4c5866;		// primary-color -> hue+3, sat-62, lum-23
+
+@primary-color:				@blue-color;
+@secondary-color:			@orange-color;
+@gradient1-start-color:		#ed2a99;
+@gradient1-end-color:		#4396e6;
+@gradient2-start-color:		#8560a8;
+@gradient2-end-color:		#f26d7d;
+
+@text-color:				#818d9a;
+@heading-color:				#3a424a;
+@heading-light-color:		#22262b;
+@text-color-lightened:		#9fadbd;	// text-color -> hue+1, sat+8, lum+13
+
+@border-color:				#dce2ed;
+@heading-underline-color:	#ebebeb;
+@bg-color:					#ffffff;
+@bg-color2:					#f8f8f8;
+
+@primary-hover-color:		lighten( @primary-color, 10% );
+@secondary-hover-color:		lighten( @secondary-color, 10% );
+
+@header-bg-color:			@bg-color;
+@topbar-height:				50px;
+@topbar-text-color:			#afbcca;
+@topbar-icon-social-color:	#cbd1dc;
+
+@main-nav-height:				110px;
+@main-nav-font-color-light:		#6c7884;
+@main-nav-hover-color-light:	@primary-color;
+@main-nav-bg-color-light:		@bg-color;
+@cart-size-color:				@secondary-color;
+@main-nav-search-icon-color:	#bec3cc;	// Not customizable yet
+@main-nav-font-color-dark:		#22262b;
+@main-nav-hover-color-dark:		#cccccc;
+@main-nav-bg-color-dark:		#272932;
+
+@dropdown-item-color-light:			#646e79;
+@dropdown-item-color-dark:			#a0a6ac;
+@dropdown-item-width:				280px;
+@dropdown-item-height:				48px;
+@dropdown-item-padding:				30px;
+@dropdown-item-arrow-color-light:	#818d9a;
+@dropdown-item-arrow-color-dark:	#8f959e;
+@dropdown-bg-color-light:			@white;
+@dropdown-bg-color-dark:			#3e4753;
+@dropdown-bg-color-hover-light:		@bg-color2;
+@dropdown-bg-color-hover-dark:		#424d59;
+@dropdown-separator-color-light:	@border-color;
+@dropdown-separator-color-dark:		#57626d;
+@dropdown-bg-center-color-dark:		#3f5770;
+@dropdown-hover-color-light:		@primary-color;
+@dropdown-hover-color-dark:			#d5dae1;
+@transparent-main-nav-color-light:	#ffffff;	/// ?
+@transparent-main-nav-color-dark:	#50575d;
+@mobile-header-toggle-bar-color:	@white;		// Not customizable
+@mobile-menu-item-height:			50px;		// Not customizable
+@mobile-menu-subitem-height:		28px;		// Not customizable
+@mobile-menu-item-color:			#3a424a;
+@mobile-menu-subitem-color:			#505b65;
+@mobile-menu-bg-color:				@bg-color;
+@mobile-menu-bg-sel-color:			@bg-color2;
+@mobile-menu-separator-color:		@border-color;
+@mobile-menu-search-icon-color:		#bec3cc;	// Not customizable yet
+@sticky-nav-height:					60px;		// Not customizable
+
+@header-v4-main-nav-height:				60px;
+
+@footer-text-color:						#818d9a;
+@footer-border-color:					#374554;
+@footer-bg-color:						#25313f;
+@footer-bg-color2:						#202b3a;	// footer-bg-color - #050605
+@footer-bg-color3:						#303f4f;	// footer-bg-color -> hue-1, sat-2, lum+5;
+@footer-bg-image-opacity:				0.05;
+@widget-area-padding-top:				90px;
+@widget-area-padding-bottom:			100px;
+@widget-area-title-color:				#dee9f5;
+@footer-copyright-bar-padding-top:		28px;
+@footer-copyright-bar-padding-bottom:	28px;
+@footer-copyright-bg-color:				#2c3b4b;
+@footer-3d-border-dark:					#1a2129;	// footer-bg-color -> sat-4, lum-7
+@footer-3d-border-light:				#324052;	// footer-bg-color -> hue+2, sat-2, lum+6
+@footer-style3-social-color1:			#7583a5;
+@footer-style3-social-color2:			#485678;
+@footer-style3-social-hover-color1:		#bdd9f4;
+@footer-style3-social-hover-color2:		#408fdc;
+@footer-text-color-lightened:			lighten( @footer-text-color, 15% );
+
+@blog-bg-color:							#f7f6f4;
+@post-bg-color:							@bg-color;
+@post-media-player-bg-color:			#4c5866;	// primary-color -> hue+3, sat-62, lum-23
+@post-meta-color:						#cccccc;	// Not customizable
+@post-meta-sep-color:					#e4e4e4;	// Not customizable
+@post-format-box-color:					#2acbd6;
+@post-readmore-link-color:				#42484d;
+@quote-post-bg-color:					@post-media-player-bg-color;
+@post-box-shadow-color:					#eae9e8;	// No need to customize
+@post-comment-reply-link-color:			lighten( @text-color, 3% );
+@post-tag-color:						#9fadbd;	// text-color -> hue+1, sat+8, lum+13
+@post-related-hover-text-color:			#f4d4cf;	// seconary-color -> hue+0, sat-27, lum+26
+@post-related-hover-meta-color:			#e9e4e4;	// secondary-color -> hue-8, sat-80, lum+28
+@post-related-hover-meta-icon-color:	#facdc6;	// secondary-color -> hue+0, sat-6, lum+26 
+
+@portfolio-grid2-shadow-color:			#e5e5e5;
+@portfolio-category-filter-color:		#505b65;	// text-color -> hue-2, sat+2, lum-20
+@portfolio-grid2-title-color:			#50575d;	// text-color -> hue-3, sat+3, lum-21
+@portfolio-grid2-category-color:		#9fadbd;	// text-color -> hue+1, sat+8, lum+13
+@portfolio-grid2-hover-shadow-color:	#3a76af;	// primary-color -> hue+0, sat-27, lum-12
+@portfolio-prevnext-color:				#ccd3e1;	// border-color -> hue+1, sat-6, lum-6
+@portfolio-info-border-color:			#ecf0f6;	// border-color -> hue-3, sat+4, lum+5
+@portfolio-info-icon-color:				#e3e7f0;	// border-color -> hue+3, sat-2, lum+2
+@portfolio-social-link-color:			#cbd1dc;	// border-color -> hue+0, sat-12, lum-7
+
+@pagination-loadmore-gradient-start-color:	@grey-color;
+@pagination-loadmore-gradient-end-color:	#738396;	// primary-color -> hue+4 sat-63 lum-6
+
+@error-404-search-icon-color:			#bfc8d3;	// text-color -> hue+2, sat+8, lum+24
+
+@woocommerce-sale-badge-color:			@red-color;			// Constant
+@woocommerce-new-badge-color:			@turquoise-color;	// Constant
+@woocommerce-best-badge-color:			@blue-color;		// Constant
+@woocommerce-catalog-font-size:			13px;
+@woocommerce-catalog-color:				#505b65;	// heading-color -> hue-1, sat+0, lum+9
+@woocommerce-price-before-sale-color:	#a2acb6;	// text-color -> hue-1, sat+1, lum+12
+@woocommerce-product-category-color:	#a3aeb9;	// text-color -> hue-1, sat+3, lum+13
+@woocommerce-rating-zero-color:			darken( @bg-color2, 10% );
+@woocommerce-meta-name-color:			#77828e;	// text-color -> hue+0, sat-2, lum-4
+@accordion-hdr-color:					#6c7884;	// Copied from plugin's less css, in dynamic css we can just use value
+@woocommerce-widget-price-color:		#505a64;	// heading-color -> hue+0, sat-1, lum+9
+
+
+@facebook-color:			@blue-color;
+@twitter-color:				@turquoise-color;
+@instagram-color:			@grey-color;
+@google-plus-color:			@orange-color;
+@dribbble-color:			@pink-color;
+@behance-color:				@purple-color;
+@pinterest-color:			@red-color;
+@tumblr-color:				#3f5770;
+@linkedin-color:			#007bb6;
+
+@heading-font:				'Raleway';
+@heading-line-height:		1.2;
+@large-heading-line-height:	1.1;
+@heading-font-weight:		700;
+@post-heading-font-weight:	600;
+@h1-font-size:				36px;
+@h2-font-size:				30px;
+@h3-font-size:				24px;
+@h4-font-size:				20px;
+@h5-font-size:				18px;
+@h6-font-size:				16px;
+
+@text-font:					'Raleway';
+@text-font2:				'Lato';
+@text-font-size:			14px;
+@text-font-weight:			400;
+@text-line-height:			1.72;
+
+@topbar-font:					'Lato';
+@topbar-font-weight:			400;
+@topbar-font-size:				14px;
+@topbar-icon-size:				16px;
+@nav-font:						'Raleway';
+@main-nav-font-weight:			700;
+@nav-font-size:					14px;
+@dropdown-item-font-weight:		400;
+@mobile-menu-font-size:			( @nav-font-size - 1px );
+
+@footer-heading-font:			'Raleway';
+@footer-heading-font-size1:		22px;
+@footer-heading-font-size2:		15px;
+@footer-heading-font-weight:	600;
+@footer-text-font:				'Raleway';
+@footer-copyright-font:			'Lato';
+@footer-social-icon-size:		20px;
+@footer-style3-social-size:		26px;		// Not customizable yet
+
+@blog-author-name-font:			'Crete Round';	// Not customizable
+
+@zindex-base-header:		1000;
+@zindex-base-sticky:		2000;
+@zindex-base-content:		0;
+@zindex-base-footer:		500;

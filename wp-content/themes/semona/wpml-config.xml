@@ -1,0 +1,63 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_semona">
+            <key name="footer-copyright-text" />
+            <key name="blog-index-title" />
+        </key>
+    </admin-texts>   
+    <custom-types>
+        <custom-type translate="1">crf_portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_skills</taxonomy>
+        <taxonomy translate="1">portfolio_tags</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="copy">crf_display_header</custom-field>
+        <custom-field action="copy">crf_header_style</custom-field>
+        <custom-field action="copy">crf_transparent_header</custom-field>
+        <custom-field action="copy">crf_transparent_header_skin</custom-field>
+        <custom-field action="copy">crf_display_top_border</custom-field>
+        <custom-field action="copy">crf_display_topbar</custom-field>
+        <custom-field action="copy">crf_topbar_skin</custom-field>
+        <custom-field action="copy">crf_topbar_bottom_border</custom-field>
+        <custom-field action="copy">crf_main_nav_hover_style</custom-field>
+        <custom-field action="copy">crf_header_v2_skin</custom-field>
+        <custom-field action="copy">crf_header_v2_stretch</custom-field>
+        <custom-field action="copy">crf_titlebar_style</custom-field>
+        <custom-field action="copy">crf_titlebar_bg_type</custom-field>
+        <custom-field action="copy">crf_titlebar_bg</custom-field>
+        <custom-field action="translate">crf_titlebar_subtitle</custom-field>
+        <custom-field action="copy">crf_slider_type</custom-field>
+        <custom-field action="copy">crf_slider_position</custom-field>
+        <custom-field action="copy">crf_display_footer</custom-field>
+        <custom-field action="copy">crf_footer_style</custom-field>
+        <custom-field action="copy">crf_footer_display_bar</custom-field>
+        <custom-field action="copy">crf_footer_bar_shortcode</custom-field>
+        <custom-field action="copy">crf_footer_bg</custom-field>
+        <custom-field action="copy">crf_footer_bg_image_opacity</custom-field>
+        <custom-field action="copy">crf_sidebar_position</custom-field>
+        <custom-field action="copy">crf_content_bg_image</custom-field>
+        <custom-field action="copy">crf_content_bg_color</custom-field>
+        <custom-field action="copy">crf_content_bg_repeat</custom-field>
+        <custom-field action="copy">crf_outer_bg_type</custom-field>
+        <custom-field action="copy">crf_outer_bg_pattern</custom-field>
+        <custom-field action="copy">crf_outer_bg_image</custom-field>
+        <custom-field action="copy">crf_outer_bg_repeat</custom-field>
+        <custom-field action="copy">crf_content_padding_top</custom-field>
+        <custom-field action="copy">crf_content_padding_bottom</custom-field>
+        <custom-field action="copy">crf_page_enable_comment</custom-field>
+        <custom-field action="copy">crf_portfolio_layout</custom-field>
+        <custom-field action="copy">crf_featured_image_masonry_size</custom-field>
+        <custom-field action="copy">crf_featured_media_type</custom-field>
+        <custom-field action="copy">crf_featured_media_embed</custom-field>
+        <custom-field action="copy">crf_featured_media_url</custom-field>
+        <custom-field action="copy">crf_portfolio_client</custom-field>
+        <custom-field action="copy">crf_portfolio_demo</custom-field>
+        <custom-field action="copy">crf_portfolio_show_related</custom-field>
+        <custom-field action="copy">crf_portfolio_related_style</custom-field>
+        <custom-field action="copy">crf_portfolio_show_comments</custom-field>
+        <custom-field action="copy">crf_page_enable_comment</custom-field>
+    </custom-fields>
+</wpml-config>
